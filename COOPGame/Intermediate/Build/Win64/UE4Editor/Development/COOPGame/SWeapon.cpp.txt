@@ -1,3 +1,4 @@
 C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\UE4Editor\Development\COOPGame\Definitions.COOPGame.h
 C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Source\COOPGame\Public\SWeapon.h
 C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\UE4Editor\Inc\COOPGame\SWeapon.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
