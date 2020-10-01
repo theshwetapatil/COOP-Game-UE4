@@ -17,3 +17,5 @@ C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFra
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavMovementComponent.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PawnMovementComponent.generated.h
+C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Source\COOPGame\Public\SWeapon.h
+C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\UE4Editor\Inc\COOPGame\SWeapon.generated.h
