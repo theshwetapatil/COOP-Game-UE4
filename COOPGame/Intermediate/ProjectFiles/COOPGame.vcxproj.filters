@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\COOPGame.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{D3AC4DCA-7A48-41C9-AB75-DE1E3738D9C5}</UniqueIdentifier>
+      <UniqueIdentifier>{9F8FF3AF-29AB-4E53-A341-B17D733A4E04}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\COOPGame.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{D3C1A92F-C585-4244-896B-7E1D79EEC474}</UniqueIdentifier>
+      <UniqueIdentifier>{18310FBE-EFBB-46CD-9B0F-F220BDD60744}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +27,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\COOPGame">
-      <UniqueIdentifier>{BE639116-00E0-4306-B4B9-F2B6A9CBAE0F}</UniqueIdentifier>
+      <UniqueIdentifier>{813CECED-4B02-47AF-8EA9-A79A0923D7BA}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\COOPGame\COOPGame.Build.cs">
       <Filter>Source\COOPGame</Filter>
@@ -45,7 +45,7 @@
       <Filter>Source\COOPGame</Filter>
     </ClInclude>
     <Filter Include="Source\COOPGame\Private">
-      <UniqueIdentifier>{12D6D7FE-1B97-485D-B6B7-A602F2E32543}</UniqueIdentifier>
+      <UniqueIdentifier>{011096B9-65DB-4A53-9BF6-5D5C3D871FD5}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\COOPGame\Private\SCharacter.cpp">
       <Filter>Source\COOPGame\Private</Filter>
@@ -53,14 +53,26 @@
     <ClCompile Include="..\..\Source\COOPGame\Private\SWeapon.cpp">
       <Filter>Source\COOPGame\Private</Filter>
     </ClCompile>
+    <Filter Include="Source\COOPGame\Private\Components">
+      <UniqueIdentifier>{2A792EFE-26A9-4E82-8398-9E61B18146D6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\COOPGame\Private\Components\SHealthComponent.cpp">
+      <Filter>Source\COOPGame\Private\Components</Filter>
+    </ClCompile>
     <Filter Include="Source\COOPGame\Public">
-      <UniqueIdentifier>{6EEAFD46-0701-4BEE-8F4A-C50F50EFED19}</UniqueIdentifier>
+      <UniqueIdentifier>{96AA08EC-5C7C-4537-8807-B8F724D3A9CD}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\COOPGame\Public\SCharacter.h">
       <Filter>Source\COOPGame\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\COOPGame\Public\SWeapon.h">
       <Filter>Source\COOPGame\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\COOPGame\Public\Components">
+      <UniqueIdentifier>{D7E1C009-065E-43DF-BD82-91D15B50F3C2}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\COOPGame\Public\Components\SHealthComponent.h">
+      <Filter>Source\COOPGame\Public\Components</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
