@@ -1,0 +1,1366 @@
+﻿Log file open, 01/28/21 11:55:55
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: COOPGame
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.413285
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2004) (), CPU: AMD Ryzen 5 2400G with Radeon Vega Graphics    , GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.01.28-06.25.57:231][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.28-06.25.57:231][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.28-06.25.57:231][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Engine.ini]
+[2021.01.28-06.25.57:232][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.28-06.25.57:232][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2021.01.28-06.25.57:232][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Engine.ini]
+[2021.01.28-06.25.57:232][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Engine.ini]
+[2021.01.28-06.25.57:232][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.28-06.25.57:232][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.28-06.25.57:232][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.28-06.25.57:232][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.28-06.25.57:232][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.28-06.25.57:232][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.28-06.25.57:232][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.28-06.25.57:232][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.28-06.25.57:232][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.28-06.25.57:232][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.28-06.25.57:232][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.28-06.25.57:232][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.28-06.25.57:232][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.28-06.25.57:232][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Engine.ini]
+[2021.01.28-06.25.57:232][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.28-06.25.57:232][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.28-06.25.57:232][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.28-06.25.57:232][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.28-06.25.57:232][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.28-06.25.57:232][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.28-06.25.57:232][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2021.01.28-06.25.57:232][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.28-06.25.57:232][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.28-06.25.57:232][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.28-06.25.57:232][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.28-06.25.57:232][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.28-06.25.57:232][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.28-06.25.57:232][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Engine.ini]
+[2021.01.28-06.25.57:232][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Engine.ini]
+[2021.01.28-06.25.57:254][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.28-06.25.57:254][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.28-06.25.57:255][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.28-06.25.57:259][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.28-06.25.57:261][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.28-06.25.57:287][  0]LogHAL: Display: Platform has ~ 16 GB [17125855232 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.28-06.25.57:291][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2021.01.28-06.25.57:291][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.28-06.25.57:292][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-06.25.57:292][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.28-06.25.57:293][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-06.25.57:294][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.28-06.25.57:294][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.28-06.25.57:294][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.28-06.25.57:294][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.28-06.25.57:294][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.28-06.25.57:294][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.28-06.25.57:294][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.28-06.25.57:294][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.28-06.25.57:294][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.28-06.25.57:294][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.28-06.25.57:294][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.01.28-06.25.57:294][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.28-06.25.57:294][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.28-06.25.57:294][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-06.25.57:294][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.28-06.25.57:294][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.28-06.25.57:294][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.28-06.25.57:296][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.28-06.25.57:296][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.28-06.25.57:296][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Engine.ini]
+[2021.01.28-06.25.57:300][  0]LogInit: Computer: DESKTOP-C697CL8
+[2021.01.28-06.25.57:300][  0]LogInit: User: ADMIN
+[2021.01.28-06.25.57:300][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.01.28-06.25.57:300][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.28-06.25.57:303][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.01.28-06.25.57:303][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.28-06.25.57:303][  0]LogMemory: Process Physical Memory: 100.13 MB used, 100.13 MB peak
+[2021.01.28-06.25.57:303][  0]LogMemory: Process Virtual Memory: 97.39 MB used, 97.39 MB peak
+[2021.01.28-06.25.57:303][  0]LogMemory: Physical Memory: 5401.26 MB used,  10931.23 MB free, 16332.49 MB total
+[2021.01.28-06.25.57:303][  0]LogMemory: Virtual Memory: 4651.25 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2021.01.28-06.25.57:861][  0]LogInit: Using OS detected language (en-US).
+[2021.01.28-06.25.57:861][  0]LogInit: Using OS detected locale (en-US).
+[2021.01.28-06.25.57:867][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.01.28-06.25.58:586][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.28-06.25.58:742][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.28-06.25.58:742][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.28-06.25.59:375][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.28-06.25.59:375][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.28-06.25.59:813][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2021.01.28-06.25.59:813][  0]LogD3D11RHI:       4018/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.01.28-06.25.59:816][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.28-06.25.59:816][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.28-06.25.59:816][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.28-06.25.59:894][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.28-06.25.59:894][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2021.01.28-06.25.59:894][  0]LogWindows: EnumDisplayDevices:
+[2021.01.28-06.25.59:894][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2021.01.28-06.25.59:895][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:1)
+[2021.01.28-06.25.59:895][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2021.01.28-06.25.59:895][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2021.01.28-06.25.59:895][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.01.28-06.25.59:895][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2021.01.28-06.25.59:895][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2021.01.28-06.25.59:896][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2021.01.28-06.25.59:896][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2021.01.28-06.25.59:982][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.28-06.26.00:021][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.01.28-06.26.00:025][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.01.28-06.26.00:026][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.01.28-06.26.00:044][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.01.28-06.26.00:892][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2021.01.28-06.26.00:912][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2021.01.28-06.26.00:932][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2021.01.28-06.26.00:951][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2021.01.28-06.26.00:973][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2021.01.28-06.26.00:995][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2021.01.28-06.26.01:021][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.28-06.26.01:047][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2021.01.28-06.26.01:061][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2021.01.28-06.26.01:183][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2021.01.28-06.26.01:183][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2021.01.28-06.26.01:183][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2021.01.28-06.26.01:183][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2021.01.28-06.26.01:183][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2021.01.28-06.26.01:183][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2021.01.28-06.26.01:183][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2021.01.28-06.26.01:183][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2021.01.28-06.26.01:183][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2021.01.28-06.26.01:183][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.28-06.26.01:183][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2021.01.28-06.26.01:183][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2021.01.28-06.26.01:183][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2021.01.28-06.26.01:183][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2021.01.28-06.26.01:183][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.28-06.26.01:183][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2021.01.28-06.26.01:184][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2021.01.28-06.26.01:184][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2021.01.28-06.26.01:190][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2021.01.28-06.26.01:274][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2021.01.28-06.26.01:274][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2021.01.28-06.26.01:306][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2021.01.28-06.26.01:306][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2021.01.28-06.26.01:326][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2021.01.28-06.26.01:348][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.28-06.26.01:367][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2021.01.28-06.26.01:390][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2021.01.28-06.26.01:461][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2021.01.28-06.26.01:461][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2021.01.28-06.26.01:461][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.28-06.26.01:486][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.28-06.26.01:704][  0]LogShaderCompilers: Guid format shader working directory is -39 characters bigger than the processId version (../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Intermediate/Shaders/WorkingDirectory/14176/).
+[2021.01.28-06.26.01:704][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ADMIN/AppData/Local/Temp/UnrealShaderWorkingDir/2E73C6A74F2DF27F898CA3A9D451052E/'.
+[2021.01.28-06.26.01:710][  0]LogXGEController: Cleaning working directory: C:/Users/ADMIN/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.01.28-06.26.01:711][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.01.28-06.26.01:711][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.28-06.26.01:711][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.28-06.26.02:916][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.28-06.26.03:122][  0]LogDerivedDataCache: Loaded boot cache 0.20s 71MB C:/Users/ADMIN/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2021.01.28-06.26.03:122][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ADMIN/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2021.01.28-06.26.03:122][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.28-06.26.03:122][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.28-06.26.03:123][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.28-06.26.03:123][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.28-06.26.03:144][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.28-06.26.03:144][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.28-06.26.03:144][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.28-06.26.03:156][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ADMIN/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.28-06.26.03:156][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.28-06.26.03:156][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.28-06.26.03:187][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.01.28-06.26.03:205][  0]LogSlate: Using FreeType 2.6.0
+[2021.01.28-06.26.03:211][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.28-06.26.03:470][  0]LogAssetRegistry: FAssetRegistry took 0.0477 seconds to start up
+[2021.01.28-06.26.04:738][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.28-06.26.05:267][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.28-06.26.05:267][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.28-06.26.05:267][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.28-06.26.05:267][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.28-06.26.05:268][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.28-06.26.05:338][  0]LogNetVersion: COOPGame 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3513699854)
+[2021.01.28-06.26.06:594][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.052091 seconds
+[2021.01.28-06.26.06:604][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2021.01.28-06.26.06:604][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2021.01.28-06.26.06:604][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.28-06.26.10:078][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.28-06.26.10:101][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.28-06.26.10:405][  0]SourceControl: Source control is disabled
+[2021.01.28-06.26.10:405][  0]SourceControl: Source control is disabled
+[2021.01.28-06.26.10:431][  0]SourceControl: Source control is disabled
+[2021.01.28-06.26.10:439][  0]SourceControl: Source control is disabled
+[2021.01.28-06.26.10:876][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.28-06.26.11:172][  0]LogOcInput: OculusInput pre-init called
+[2021.01.28-06.26.12:442][  0]LogEngine: Initializing Engine...
+[2021.01.28-06.26.12:447][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.28-06.26.12:452][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2021.01.28-06.26.12:927][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.28-06.26.13:043][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.28-06.26.13:113][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.01.28-06.26.13:203][  0]LogInit: FAudioDevice initialized.
+[2021.01.28-06.26.13:204][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.28-06.26.13:511][  0]LogDerivedDataCache: Saved boot cache 0.31s 71MB C:/Users/ADMIN/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2021.01.28-06.26.13:518][  0]LogInit: Texture streaming: Enabled
+[2021.01.28-06.26.13:618][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.28-06.26.13:695][  0]LogInit: Transaction tracking system initialized
+[2021.01.28-06.26.13:844][  0]BlueprintLog: New page: Editor Load
+[2021.01.28-06.26.14:385][  0]LocalizationService: Localization service is disabled
+[2021.01.28-06.26.15:481][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Content/' took 0.02s
+[2021.01.28-06.26.15:481][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.01.28-06.26.15:482][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.28-06.26.16:603][  0]SourceControl: Source control is disabled
+[2021.01.28-06.26.16:606][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Content/Maps/P_TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.28-06.26.16:608][  0]LightingResults: New page: Lighting Build
+[2021.01.28-06.26.16:627][  0]MapCheck: New page: Map Check
+[2021.01.28-06.26.16:627][  0]LightingResults: New page: Lighting Build
+[2021.01.28-06.26.16:676][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.01.28-06.26.18:331][  0]LogAIModule: Creating AISystem for world P_TestMap
+[2021.01.28-06.26.18:419][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.28-06.26.18:483][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2021.01.28-06.26.18:484][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.28-06.26.18:485][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.803ms to complete.
+[2021.01.28-06.26.18:486][  0]LogFileHelpers: Loading map 'P_TestMap' took 1.881
+[2021.01.28-06.26.21:376][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.01.28-06.26.21:602][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-06.26.21:618][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-06.26.21:633][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-06.26.21:652][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-06.26.21:687][  0]LogCollectionManager: Loaded 0 collections in 0.003741 seconds
+[2021.01.28-06.26.21:771][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Collections/' took 0.01s
+[2021.01.28-06.26.21:771][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Content/Developers/ADMIN/Collections/' took 0.01s
+[2021.01.28-06.26.21:771][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Content/Collections/' took 0.01s
+[2021.01.28-06.26.21:771][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2021.01.28-06.26.21:805][  0]LogContentBrowser: Native class hierarchy populated in 0.0295 seconds. Added 2737 classes and 664 folders.
+[2021.01.28-06.26.21:853][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2021.01.28-06.26.21:873][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.28-06.26.21:887][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.28-06.26.21:892][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.28-06.26.21:898][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.28-06.26.21:902][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.28-06.26.21:909][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.28-06.26.21:916][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.28-06.26.21:923][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.28-06.26.21:930][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.28-06.26.21:934][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.28-06.26.21:940][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.28-06.26.21:945][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.28-06.26.21:949][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.28-06.26.21:957][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.28-06.26.21:961][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.28-06.26.21:967][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.28-06.26.21:971][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.28-06.26.21:976][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.28-06.26.21:980][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.28-06.26.21:986][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.28-06.26.21:991][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.28-06.26.21:995][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.28-06.26.22:001][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.28-06.26.22:007][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.28-06.26.22:012][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.28-06.26.22:020][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.28-06.26.22:263][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2021.01.28-06.26.22:313][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2021.01.28-06.26.22:539][  0]LogSlate: Took 0.002334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.28-06.26.22:546][  0]LogSlate: Took 0.002158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.28-06.26.22:565][  0]LogSlate: Took 0.004799 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.28-06.26.22:571][  0]LogSlate: Took 0.004491 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.01.28-06.26.22:767][  0]LogRenderer: Reallocating scene render targets to support 872x312 Format 10 NumSamples 1 (Frame:1).
+[2021.01.28-06.26.23:055][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2021.01.28-06.26.23:056][  0]LogLoad: (Engine Initialization) Total time: 34.60 seconds
+[2021.01.28-06.26.23:056][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.28-06.26.23:165][  0]LogAssetRegistry: Asset discovery search completed in 19.7187 seconds
+[2021.01.28-06.26.23:177][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2021.01.28-06.26.23:177][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000308 seconds (updated 0 objects)
+[2021.01.28-06.26.23:187][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.28-06.26.24:417][  4]LogSlate: Took 0.002104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.28-06.28.30:925][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-06.28.31:220][480]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.28-06.28.31:379][486]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.01.28-06.28.31:382][486]LogMaterial: Warning: /Engine/Transient.Material_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.01.28-06.28.31:382][486]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2021.01.28-06.51.11:678][524]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_TrackerBot.BP_TrackerBot
+[2021.01.28-06.51.12:066][524]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 121 classes and 0 folders.
+[2021.01.28-06.51.13:063][524]LogSlate: Took 0.001453 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.28-06.51.13:162][525]LogSlate: Took 0.001651 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.28-06.51.47:569][937]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/Blueprints/BP_TrackerBot
+[2021.01.28-06.51.47:625][937]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2021.01.28-06.51.47:663][937]LogActorComponent: UnregisterComponent: (/Engine/Transient.DirectionalLightComponent_18) Not registered. Aborting.
+[2021.01.28-06.51.47:663][937]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkyLightComponent_6) Not registered. Aborting.
+[2021.01.28-06.51.47:663][937]LogActorComponent: UnregisterComponent: (/Engine/Transient.LineBatchComponent_33) Not registered. Aborting.
+[2021.01.28-06.51.47:663][937]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.28-06.51.47:777][937]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.01.28-06.51.48:154][937]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.01.28-06.51.48:155][937]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_TrackerBot.BP_TrackerBot
+[2021.01.28-06.51.57:308][792]Candidate modules for hot reload:
+[2021.01.28-06.51.57:308][792]  COOPGame
+[2021.01.28-06.51.57:308][792]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=COOPGame,8888 Win64 Development -TargetType=Editor -Project="C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/COOPGame.uproject" "C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/COOPGame.uproject"  -IgnoreJunk]
+[2021.01.28-06.51.57:311][792]Warning: Starting HotReload took  1.6s.
+[2021.01.28-06.52.23:576][339]CompilerResultsLog: New page: Compilation - Jan 28, 2021, 5:52:23 PM
+[2021.01.28-06.52.23:577][339]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4).
+[2021.01.28-06.52.23:577][339]CompilerResultsLog: Creating makefile for COOPGameEditor (ini files are newer than makefile)
+[2021.01.28-06.52.23:577][339]CompilerResultsLog: Parsing headers for COOPGameEditor
+[2021.01.28-06.52.23:577][339]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\COOPGame.uproject" "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\COOPGameEditor\Development\COOPGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2021.01.28-06.52.23:578][339]CompilerResultsLog: Reflection code generated for COOPGameEditor in 9.3599427 seconds
+[2021.01.28-06.52.23:578][339]CompilerResultsLog: Using Visual Studio 2019 14.28.29333 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.01.28-06.52.23:578][339]CompilerResultsLog: Building 6 actions with 8 processes...
+[2021.01.28-06.52.23:578][339]CompilerResultsLog:   [1/6] STrackerBot.cpp
+[2021.01.28-06.52.23:578][339]CompilerResultsLog:    C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Source\COOPGame\Private\AI\STrackerBot.cpp(90) : error C2660: 'UGameplayStatics::SpawnDecalAtLocation': function does not take 3 arguments
+[2021.01.28-06.52.23:579][339]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(732): note: see declaration of 'UGameplayStatics::SpawnDecalAtLocation'
+[2021.01.28-06.52.23:579][339]CompilerResultsLog:   [2/6] COOPGame.init.gen.cpp
+[2021.01.28-06.52.23:579][339]CompilerResultsLog:   [3/6] STrackerBot.gen.cpp
+[2021.01.28-06.52.23:579][339]LogMainFrame: MainFrame: Module compiling took 26.277 seconds
+[2021.01.28-06.52.23:579][339]Warning: HotReload failed, recompile failed
+[2021.01.28-06.53.29:402][888]Candidate modules for hot reload:
+[2021.01.28-06.53.29:402][888]  COOPGame
+[2021.01.28-06.53.29:402][888]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=COOPGame,9559 Win64 Development -TargetType=Editor -Project="C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/COOPGame.uproject" "C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/COOPGame.uproject"  -IgnoreJunk]
+[2021.01.28-06.53.29:405][888]Warning: Starting HotReload took  0.0s.
+[2021.01.28-06.53.41:798][335]CompilerResultsLog: New page: Compilation - Jan 28, 2021, 5:53:41 PM
+[2021.01.28-06.53.41:798][335]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4).
+[2021.01.28-06.53.41:799][335]CompilerResultsLog: Parsing headers for COOPGameEditor
+[2021.01.28-06.53.41:799][335]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\COOPGame.uproject" "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\COOPGameEditor\Development\COOPGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2021.01.28-06.53.41:800][335]CompilerResultsLog: Reflection code generated for COOPGameEditor in 7.1207659 seconds
+[2021.01.28-06.53.41:800][335]CompilerResultsLog: Using Visual Studio 2019 14.28.29333 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.01.28-06.53.41:801][335]CompilerResultsLog: Building 4 actions with 8 processes...
+[2021.01.28-06.53.41:801][335]CompilerResultsLog:   [1/4] STrackerBot.cpp
+[2021.01.28-06.53.41:801][335]CompilerResultsLog:   [2/4] UE4Editor-COOPGame-9559.lib
+[2021.01.28-06.53.41:801][335]CompilerResultsLog:      Creating library C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\UE4Editor\Development\COOPGame\UE4Editor-COOPGame-9559.lib and object C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\UE4Editor\Development\COOPGame\UE4Editor-COOPGame-9559.exp
+[2021.01.28-06.53.41:802][335]CompilerResultsLog:   [3/4] UE4Editor-COOPGame-9559.dll
+[2021.01.28-06.53.41:802][335]CompilerResultsLog:      Creating library C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\UE4Editor\Development\COOPGame\UE4Editor-COOPGame-9559.suppressed.lib and object C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\UE4Editor\Development\COOPGame\UE4Editor-COOPGame-9559.suppressed.exp
+[2021.01.28-06.53.41:803][335]CompilerResultsLog:   [4/4] COOPGameEditor.target
+[2021.01.28-06.53.41:803][335]CompilerResultsLog: Total time in Parallel executor: 3.75 seconds
+[2021.01.28-06.53.41:803][335]CompilerResultsLog: Total execution time: 12.27 seconds
+[2021.01.28-06.53.41:803][335]LogMainFrame: MainFrame: Module compiling took 12.405 seconds
+[2021.01.28-06.53.41:849][335]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.01.28-06.53.41:849][335]LogBlueprintActionDatabase: Requesting refresh due to module change: COOPGame (unloaded)
+[2021.01.28-06.53.41:872][335]LogClass: Could not find existing class STrackerBot in package /Script/COOPGame for HotReload, assuming new class
+[2021.01.28-06.53.41:872][335]LogClass: Function HandleTakeDamage is new.
+[2021.01.28-06.53.41:877][335]LogClass: HitScanTrace HotReload.
+[2021.01.28-06.53.41:896][335]LogHotReload: Re-instancing STrackerBot after hot-reload.
+[2021.01.28-06.53.42:283][335]LogBlueprintActionDatabase: Requesting refresh due to module change: COOPGame (loaded)
+[2021.01.28-06.53.42:283][335]LogContentBrowser: Native class hierarchy updated for 'COOPGame' in 0.0005 seconds. Added 5 classes and 5 folders.
+[2021.01.28-06.53.42:289][335]Display: HotReload successful (6 functions remapped  1 scriptstructs remapped)
+[2021.01.28-06.53.42:448][335]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2021.01.28-06.53.42:448][335]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2021.01.28-06.53.42:468][335]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2738 classes and 666 folders.
+[2021.01.28-06.53.42:469][335]Display: HotReload took 13.1s.
+[2021.01.28-06.54.13:370][ 32]LogMaterial: Display: Missing cached shader map for material M_Burst, compiling. 
+[2021.01.28-06.54.13:419][ 32]LogMaterial: Display: Missing cached shader map for material M_radial_ramp, compiling. 
+[2021.01.28-06.54.13:441][ 32]LogMaterial: Display: Missing cached shader map for material M_explosion_subUV, compiling. 
+[2021.01.28-06.54.13:464][ 32]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2021.01.28-06.54.19:642][412]BlueprintLog: New page: Compile BP_TrackerBot
+[2021.01.28-06.54.20:146][412]LogUObjectHash: Compacting FUObjectHashTables data took  11.70ms
+[2021.01.28-06.54.20:294][412]LogSavePackage: Moving '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/BP_TrackerBotD7EAF47D489017E2D223668DB41D231D.tmp' to '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Content/Blueprints/BP_TrackerBot.uasset'
+[2021.01.28-06.54.21:021][459]LogSavePackage: Moving '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/BP_TrackerBot0EB81AE94A7FA2A3CB0BD18FE79C91E2.tmp' to '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Content/Blueprints/BP_TrackerBot.uasset'
+[2021.01.28-06.54.28:753][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2021.01.28-06.54.29:207][ 36]LogSavePackage: Moving '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/P_TestMap5DB5D70C4BE21C47B0B1BC81FE901A1D.tmp' to '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Content/Maps/P_TestMap.umap'
+[2021.01.28-06.54.29:325][ 36]LogSavePackage: Moving '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/P_TestMap_BuiltData136B60634226F10738834685888BE855.tmp' to '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Content/Maps/P_TestMap_BuiltData.uasset'
+[2021.01.28-06.54.33:290][359]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-06.54.33:339][359]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2021.01.28-06.54.33:340][359]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-06.54.33:341][359]PIE: New page: PIE session: P_TestMap (Jan 28, 2021, 5:54:33 PM)
+[2021.01.28-06.54.33:357][359]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_P_TestMap
+[2021.01.28-06.54.33:367][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009205s)
+[2021.01.28-06.54.33:368][359]LogAIModule: Creating AISystem for world P_TestMap
+[2021.01.28-06.54.33:369][359]LogPlayLevel: PIE: World Init took: (0.001327s)
+[2021.01.28-06.54.33:369][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/P_TestMap.P_TestMap to /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap (0.011867s)
+[2021.01.28-06.54.33:425][359]LogUObjectHash: Compacting FUObjectHashTables data took   7.19ms
+[2021.01.28-06.54.33:460][359]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.01.28-06.54.33:498][359]LogInit: FAudioDevice initialized.
+[2021.01.28-06.54.33:547][359]LogLoad: Game class is 'BP_TestGameMode_C'
+[2021.01.28-06.54.33:555][359]LogWorld: Bringing World /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap up for play (max tick rate 0) at 2021.01.28-12.24.33
+[2021.01.28-06.54.33:566][359]LogWorld: Bringing up level for play took: 0.015711
+[2021.01.28-06.54.33:647][359]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2021.01.28-06.54.33:655][359]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2021.01.28-06.54.33:656][359]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 20 classes and 0 folders.
+[2021.01.28-06.54.33:673][359]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_P_TestMap -0.488
+[2021.01.28-06.54.33:674][359]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2021.01.28-06.54.39:325][763]LogTemp: Health Changed: 80.0
+[2021.01.28-06.54.39:325][763]LogTemp: Damage Changed: 20.0
+[2021.01.28-06.54.39:325][763]LogTemp: Health 80.0 of BP_TrackerBot_2
+[2021.01.28-06.54.39:421][772]LogTemp: Health Changed: 60.0
+[2021.01.28-06.54.39:422][772]LogTemp: Damage Changed: 20.0
+[2021.01.28-06.54.39:422][772]LogTemp: Health 60.0 of BP_TrackerBot_2
+[2021.01.28-06.54.39:733][801]LogTemp: Health Changed: 40.0
+[2021.01.28-06.54.39:733][801]LogTemp: Damage Changed: 20.0
+[2021.01.28-06.54.39:733][801]LogTemp: Health 40.0 of BP_TrackerBot_2
+[2021.01.28-06.54.39:830][810]LogTemp: Health Changed: 20.0
+[2021.01.28-06.54.39:830][810]LogTemp: Damage Changed: 20.0
+[2021.01.28-06.54.39:830][810]LogTemp: Health 20.0 of BP_TrackerBot_2
+[2021.01.28-06.54.39:939][820]LogTemp: Health Changed: 0.0
+[2021.01.28-06.54.39:939][820]LogTemp: Damage Changed: 20.0
+[2021.01.28-06.54.39:939][820]LogTemp: Health 0.0 of BP_TrackerBot_2
+[2021.01.28-06.54.39:940][820]LogTemp: Health Changed: 60.0
+[2021.01.28-06.54.39:940][820]LogTemp: Damage Changed: 40.0
+[2021.01.28-06.54.43:955][231]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2021.01.28-06.54.43:955][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-06.54.43:986][231]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-06.54.43:986][231]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2021.01.28-06.54.44:032][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-06.54.44:078][231]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2021.01.28-06.54.44:103][232]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.01.28-06.54.45:551][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-06.54.45:684][419]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-06.54.45:708][419]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2021.01.28-06.54.45:709][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-06.54.45:709][419]PIE: New page: PIE session: P_TestMap (Jan 28, 2021, 5:54:45 PM)
+[2021.01.28-06.54.45:709][419]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_P_TestMap
+[2021.01.28-06.54.45:716][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005852s)
+[2021.01.28-06.54.45:716][419]LogAIModule: Creating AISystem for world P_TestMap
+[2021.01.28-06.54.45:717][419]LogPlayLevel: PIE: World Init took: (0.001504s)
+[2021.01.28-06.54.45:717][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/P_TestMap.P_TestMap to /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap (0.008277s)
+[2021.01.28-06.54.45:777][419]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2021.01.28-06.54.45:791][419]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.01.28-06.54.45:810][419]LogInit: FAudioDevice initialized.
+[2021.01.28-06.54.45:844][419]LogLoad: Game class is 'BP_TestGameMode_C'
+[2021.01.28-06.54.45:848][419]LogWorld: Bringing World /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap up for play (max tick rate 0) at 2021.01.28-12.24.45
+[2021.01.28-06.54.45:849][419]LogWorld: Bringing up level for play took: 0.003742
+[2021.01.28-06.54.45:863][419]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_P_TestMap -0.298
+[2021.01.28-06.54.45:863][419]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2021.01.28-06.54.49:938][904]LogTemp: Health Changed: 80.0
+[2021.01.28-06.54.49:938][904]LogTemp: Damage Changed: 20.0
+[2021.01.28-06.54.49:938][904]LogTemp: Health 80.0 of BP_TrackerBot_2
+[2021.01.28-06.54.50:030][915]LogTemp: Health Changed: 60.0
+[2021.01.28-06.54.50:030][915]LogTemp: Damage Changed: 20.0
+[2021.01.28-06.54.50:030][915]LogTemp: Health 60.0 of BP_TrackerBot_2
+[2021.01.28-06.54.50:413][961]LogTemp: Health Changed: 40.0
+[2021.01.28-06.54.50:413][961]LogTemp: Damage Changed: 20.0
+[2021.01.28-06.54.50:413][961]LogTemp: Health 40.0 of BP_TrackerBot_2
+[2021.01.28-06.54.50:505][972]LogTemp: Health Changed: 20.0
+[2021.01.28-06.54.50:505][972]LogTemp: Damage Changed: 20.0
+[2021.01.28-06.54.50:505][972]LogTemp: Health 20.0 of BP_TrackerBot_2
+[2021.01.28-06.54.52:314][189]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2021.01.28-06.54.52:315][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-06.54.52:349][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-06.54.52:349][189]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2021.01.28-06.54.52:389][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-06.54.52:394][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.01.28-06.54.52:413][190]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.01.28-06.54.53:655][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-06.54.53:771][350]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-06.54.53:792][350]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2021.01.28-06.54.53:793][350]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-06.54.53:793][350]PIE: New page: PIE session: P_TestMap (Jan 28, 2021, 5:54:53 PM)
+[2021.01.28-06.54.53:794][350]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_P_TestMap
+[2021.01.28-06.54.53:800][350]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005961s)
+[2021.01.28-06.54.53:800][350]LogAIModule: Creating AISystem for world P_TestMap
+[2021.01.28-06.54.53:801][350]LogPlayLevel: PIE: World Init took: (0.001057s)
+[2021.01.28-06.54.53:801][350]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/P_TestMap.P_TestMap to /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap (0.007679s)
+[2021.01.28-06.54.53:842][350]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.01.28-06.54.53:859][350]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.01.28-06.54.53:879][350]LogInit: FAudioDevice initialized.
+[2021.01.28-06.54.53:907][350]LogLoad: Game class is 'BP_TestGameMode_C'
+[2021.01.28-06.54.53:910][350]LogWorld: Bringing World /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap up for play (max tick rate 0) at 2021.01.28-12.24.53
+[2021.01.28-06.54.53:911][350]LogWorld: Bringing up level for play took: 0.003654
+[2021.01.28-06.54.53:926][350]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_P_TestMap -0.235
+[2021.01.28-06.54.53:926][350]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2021.01.28-06.54.57:104][728]LogTemp: Health Changed: 80.0
+[2021.01.28-06.54.57:104][728]LogTemp: Damage Changed: 20.0
+[2021.01.28-06.54.57:104][728]LogTemp: Health 80.0 of BP_TrackerBot_2
+[2021.01.28-06.54.57:195][739]LogTemp: Health Changed: 60.0
+[2021.01.28-06.54.57:195][739]LogTemp: Damage Changed: 20.0
+[2021.01.28-06.54.57:196][739]LogTemp: Health 60.0 of BP_TrackerBot_2
+[2021.01.28-06.54.58:278][869]LogTemp: Health Changed: 40.0
+[2021.01.28-06.54.58:279][869]LogTemp: Damage Changed: 20.0
+[2021.01.28-06.54.58:279][869]LogTemp: Health 40.0 of BP_TrackerBot_2
+[2021.01.28-06.54.58:478][893]LogTemp: Health Changed: 20.0
+[2021.01.28-06.54.58:478][893]LogTemp: Damage Changed: 20.0
+[2021.01.28-06.54.58:479][893]LogTemp: Health 20.0 of BP_TrackerBot_2
+[2021.01.28-06.54.58:653][914]LogTemp: Health Changed: 0.0
+[2021.01.28-06.54.58:653][914]LogTemp: Damage Changed: 20.0
+[2021.01.28-06.54.58:653][914]LogTemp: Health 0.0 of BP_TrackerBot_2
+[2021.01.28-06.55.04:364][599]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2021.01.28-06.55.04:365][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-06.55.04:399][599]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-06.55.04:399][599]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2021.01.28-06.55.04:439][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-06.55.04:444][599]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.01.28-06.55.04:465][600]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.01.28-07.50.45:503][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.28-07.50.45:614][808]Candidate modules for hot reload:
+[2021.01.28-07.50.45:614][808]  COOPGame
+[2021.01.28-07.50.45:614][808]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=COOPGame,2656 Win64 Development -TargetType=Editor -Project="C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/COOPGame.uproject" "C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/COOPGame.uproject"  -IgnoreJunk]
+[2021.01.28-07.50.45:618][808]Warning: Starting HotReload took  0.0s.
+[2021.01.28-07.50.55:903][ 22]CompilerResultsLog: New page: Compilation - Jan 28, 2021, 6:50:55 PM
+[2021.01.28-07.50.55:903][ 22]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4).
+[2021.01.28-07.50.55:903][ 22]CompilerResultsLog: Creating makefile for COOPGameEditor (ini files are newer than makefile)
+[2021.01.28-07.50.55:903][ 22]CompilerResultsLog: Parsing headers for COOPGameEditor
+[2021.01.28-07.50.55:903][ 22]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\COOPGame.uproject" "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\COOPGameEditor\Development\COOPGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2021.01.28-07.50.55:904][ 22]CompilerResultsLog: Error: C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Source/COOPGame/Public/AI/STrackerBot.h(32)  : Error: Unrecognized type 'USSphereComponent' - type must be a UCLASS, USTRUCT or UENUM
+[2021.01.28-07.50.55:904][ 22]LogMainFrame: MainFrame: Module compiling took 10.294 seconds
+[2021.01.28-07.50.55:904][ 22]Warning: HotReload failed, recompile failed
+[2021.01.28-07.51.45:842][260]Candidate modules for hot reload:
+[2021.01.28-07.51.45:842][260]  COOPGame
+[2021.01.28-07.51.45:842][260]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=COOPGame,1211 Win64 Development -TargetType=Editor -Project="C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/COOPGame.uproject" "C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/COOPGame.uproject"  -IgnoreJunk]
+[2021.01.28-07.51.45:845][260]Warning: Starting HotReload took  0.0s.
+[2021.01.28-07.51.57:922][664]CompilerResultsLog: New page: Compilation - Jan 28, 2021, 6:51:57 PM
+[2021.01.28-07.51.57:922][664]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4).
+[2021.01.28-07.51.57:923][664]CompilerResultsLog: Creating makefile for COOPGameEditor (ini files are newer than makefile)
+[2021.01.28-07.51.57:923][664]CompilerResultsLog: Parsing headers for COOPGameEditor
+[2021.01.28-07.51.57:923][664]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\COOPGame.uproject" "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\COOPGameEditor\Development\COOPGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2021.01.28-07.51.57:924][664]CompilerResultsLog: Reflection code generated for COOPGameEditor in 7.1570811 seconds
+[2021.01.28-07.51.57:924][664]CompilerResultsLog: Using Visual Studio 2019 14.28.29333 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.01.28-07.51.57:924][664]CompilerResultsLog: Building 6 actions with 8 processes...
+[2021.01.28-07.51.57:924][664]CompilerResultsLog:   [1/6] COOPGame.init.gen.cpp
+[2021.01.28-07.51.57:924][664]CompilerResultsLog:   [2/6] STrackerBot.gen.cpp
+[2021.01.28-07.51.57:924][664]CompilerResultsLog:   [3/6] STrackerBot.cpp
+[2021.01.28-07.51.57:924][664]CompilerResultsLog:    C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Source\COOPGame\Private\AI\STrackerBot.cpp(150) : error C2440: 'initializing': cannot convert from 'To *' to 'ASCharacter'
+[2021.01.28-07.51.57:925][664]CompilerResultsLog:           with
+[2021.01.28-07.51.57:925][664]CompilerResultsLog:           [
+[2021.01.28-07.51.57:925][664]CompilerResultsLog:               To=ASCharacter
+[2021.01.28-07.51.57:925][664]CompilerResultsLog:           ]
+[2021.01.28-07.51.57:925][664]CompilerResultsLog:   C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Source\COOPGame\Private\AI\STrackerBot.cpp(150): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+[2021.01.28-07.51.57:925][664]CompilerResultsLog:    C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Source\COOPGame\Private\AI\STrackerBot.cpp(151) : error C2451: a conditional expression of type 'ASCharacter' is not valid
+[2021.01.28-07.51.57:926][664]CompilerResultsLog:   C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Source\COOPGame\Private\AI\STrackerBot.cpp(151): note: No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+[2021.01.28-07.51.57:926][664]LogMainFrame: MainFrame: Module compiling took 12.087 seconds
+[2021.01.28-07.51.57:926][664]Warning: HotReload failed, recompile failed
+[2021.01.28-07.52.32:574][993]Candidate modules for hot reload:
+[2021.01.28-07.52.32:574][993]  COOPGame
+[2021.01.28-07.52.32:574][993]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=COOPGame,7736 Win64 Development -TargetType=Editor -Project="C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/COOPGame.uproject" "C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/COOPGame.uproject"  -IgnoreJunk]
+[2021.01.28-07.52.32:578][993]Warning: Starting HotReload took  0.0s.
+[2021.01.28-07.52.44:720][164]CompilerResultsLog: New page: Compilation - Jan 28, 2021, 6:52:44 PM
+[2021.01.28-07.52.44:720][164]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4).
+[2021.01.28-07.52.44:721][164]CompilerResultsLog: Parsing headers for COOPGameEditor
+[2021.01.28-07.52.44:721][164]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\COOPGame.uproject" "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\COOPGameEditor\Development\COOPGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2021.01.28-07.52.44:722][164]CompilerResultsLog: Reflection code generated for COOPGameEditor in 7.0004507 seconds
+[2021.01.28-07.52.44:722][164]CompilerResultsLog: Using Visual Studio 2019 14.28.29333 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.01.28-07.52.44:722][164]CompilerResultsLog: Building 4 actions with 8 processes...
+[2021.01.28-07.52.44:723][164]CompilerResultsLog:   [1/4] STrackerBot.cpp
+[2021.01.28-07.52.44:723][164]CompilerResultsLog:   [2/4] UE4Editor-COOPGame-7736.lib
+[2021.01.28-07.52.44:723][164]CompilerResultsLog:      Creating library C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\UE4Editor\Development\COOPGame\UE4Editor-COOPGame-7736.lib and object C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\UE4Editor\Development\COOPGame\UE4Editor-COOPGame-7736.exp
+[2021.01.28-07.52.44:723][164]CompilerResultsLog:   [3/4] UE4Editor-COOPGame-7736.dll
+[2021.01.28-07.52.44:723][164]CompilerResultsLog:      Creating library C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\UE4Editor\Development\COOPGame\UE4Editor-COOPGame-7736.suppressed.lib and object C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\UE4Editor\Development\COOPGame\UE4Editor-COOPGame-7736.suppressed.exp
+[2021.01.28-07.52.44:724][164]CompilerResultsLog:   [4/4] COOPGameEditor.target
+[2021.01.28-07.52.44:724][164]CompilerResultsLog: Total time in Parallel executor: 3.25 seconds
+[2021.01.28-07.52.44:724][164]CompilerResultsLog: Total execution time: 11.90 seconds
+[2021.01.28-07.52.44:724][164]LogMainFrame: MainFrame: Module compiling took 12.153 seconds
+[2021.01.28-07.52.44:762][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.01.28-07.52.44:762][164]LogBlueprintActionDatabase: Requesting refresh due to module change: COOPGame (unloaded)
+[2021.01.28-07.52.44:833][164]LogClass: Could not find existing class STrackerBot in package /Script/COOPGame for HotReload, assuming new class
+[2021.01.28-07.52.44:833][164]LogClass: Function HandleTakeDamage is new.
+[2021.01.28-07.52.44:837][164]LogClass: HitScanTrace HotReload.
+[2021.01.28-07.52.44:853][164]LogHotReload: Re-instancing STrackerBot after hot-reload.
+[2021.01.28-07.52.45:326][164]LogBlueprintActionDatabase: Requesting refresh due to module change: COOPGame (loaded)
+[2021.01.28-07.52.45:327][164]LogContentBrowser: Native class hierarchy updated for 'COOPGame' in 0.0006 seconds. Added 5 classes and 5 folders.
+[2021.01.28-07.52.45:333][164]Display: HotReload successful (6 functions remapped  1 scriptstructs remapped)
+[2021.01.28-07.52.45:441][164]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2021.01.28-07.52.45:441][164]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2021.01.28-07.52.45:462][164]LogContentBrowser: Native class hierarchy populated in 0.0114 seconds. Added 2738 classes and 666 folders.
+[2021.01.28-07.52.45:462][164]Display: HotReload took 12.9s.
+[2021.01.28-07.54.58:709][809]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/Blueprints/BP_TrackerBot
+[2021.01.28-07.54.58:808][809]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2021.01.28-07.54.58:828][809]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'Default__BP_TrackerBot_C:SphereComp.BodySetup_1' (transient) in the new package '/Game/Blueprints/BP_TrackerBot'. Any existing references to this object will be nulled out.
+[2021.01.28-07.54.58:833][809]LogActorComponent: UnregisterComponent: (/Engine/Transient.DirectionalLightComponent_22) Not registered. Aborting.
+[2021.01.28-07.54.58:833][809]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkyLightComponent_8) Not registered. Aborting.
+[2021.01.28-07.54.58:833][809]LogActorComponent: UnregisterComponent: (/Engine/Transient.LineBatchComponent_41) Not registered. Aborting.
+[2021.01.28-07.54.58:833][809]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.28-07.54.59:021][809]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2021.01.28-07.54.59:500][809]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.01.28-07.54.59:501][809]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_TrackerBot.BP_TrackerBot
+[2021.01.28-07.56.43:146][895]Candidate modules for hot reload:
+[2021.01.28-07.56.43:146][895]  COOPGame
+[2021.01.28-07.56.43:146][895]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=COOPGame,1188 Win64 Development -TargetType=Editor -Project="C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/COOPGame.uproject" "C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/COOPGame.uproject"  -IgnoreJunk]
+[2021.01.28-07.56.43:149][895]Warning: Starting HotReload took  0.0s.
+[2021.01.28-07.56.56:211][ 57]CompilerResultsLog: New page: Compilation - Jan 28, 2021, 6:56:56 PM
+[2021.01.28-07.56.56:211][ 57]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4).
+[2021.01.28-07.56.56:212][ 57]CompilerResultsLog: Creating makefile for COOPGameEditor (ini files are newer than makefile)
+[2021.01.28-07.56.56:212][ 57]CompilerResultsLog: Parsing headers for COOPGameEditor
+[2021.01.28-07.56.56:212][ 57]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\COOPGame.uproject" "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\COOPGameEditor\Development\COOPGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2021.01.28-07.56.56:213][ 57]CompilerResultsLog: Reflection code generated for COOPGameEditor in 7.0179249 seconds
+[2021.01.28-07.56.56:213][ 57]CompilerResultsLog: Using Visual Studio 2019 14.28.29333 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.01.28-07.56.56:214][ 57]CompilerResultsLog: Building 4 actions with 8 processes...
+[2021.01.28-07.56.56:214][ 57]CompilerResultsLog:   [1/4] STrackerBot.cpp
+[2021.01.28-07.56.56:214][ 57]CompilerResultsLog:   [2/4] UE4Editor-COOPGame-1188.lib
+[2021.01.28-07.56.56:214][ 57]CompilerResultsLog:      Creating library C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\UE4Editor\Development\COOPGame\UE4Editor-COOPGame-1188.lib and object C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\UE4Editor\Development\COOPGame\UE4Editor-COOPGame-1188.exp
+[2021.01.28-07.56.56:215][ 57]CompilerResultsLog:   [3/4] UE4Editor-COOPGame-1188.dll
+[2021.01.28-07.56.56:215][ 57]CompilerResultsLog:      Creating library C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\UE4Editor\Development\COOPGame\UE4Editor-COOPGame-1188.suppressed.lib and object C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\UE4Editor\Development\COOPGame\UE4Editor-COOPGame-1188.suppressed.exp
+[2021.01.28-07.56.56:216][ 57]CompilerResultsLog:   [4/4] COOPGameEditor.target
+[2021.01.28-07.56.56:216][ 57]CompilerResultsLog: Total time in Parallel executor: 3.20 seconds
+[2021.01.28-07.56.56:216][ 57]CompilerResultsLog: Total execution time: 12.92 seconds
+[2021.01.28-07.56.56:216][ 57]LogMainFrame: MainFrame: Module compiling took 13.074 seconds
+[2021.01.28-07.56.56:254][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.01.28-07.56.56:254][ 57]LogBlueprintActionDatabase: Requesting refresh due to module change: COOPGame (unloaded)
+[2021.01.28-07.56.56:270][ 57]LogClass: HitScanTrace HotReload.
+[2021.01.28-07.56.56:280][ 57]LogHotReload: Re-instancing STrackerBot after hot-reload.
+[2021.01.28-07.56.56:679][ 57]LogBlueprintActionDatabase: Requesting refresh due to module change: COOPGame (loaded)
+[2021.01.28-07.56.56:680][ 57]LogContentBrowser: Native class hierarchy updated for 'COOPGame' in 0.0005 seconds. Added 5 classes and 5 folders.
+[2021.01.28-07.56.56:686][ 57]Display: HotReload successful (7 functions remapped  1 scriptstructs remapped)
+[2021.01.28-07.56.56:774][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.01.28-07.56.56:774][ 57]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2021.01.28-07.56.56:793][ 57]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 2738 classes and 666 folders.
+[2021.01.28-07.56.56:793][ 57]Display: HotReload took 13.7s.
+[2021.01.28-07.57.32:690][991]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/Blueprints/BP_TrackerBot
+[2021.01.28-07.57.32:759][991]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.01.28-07.57.32:790][991]LogActorComponent: UnregisterComponent: (/Engine/Transient.DirectionalLightComponent_23) Not registered. Aborting.
+[2021.01.28-07.57.32:790][991]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkyLightComponent_9) Not registered. Aborting.
+[2021.01.28-07.57.32:790][991]LogActorComponent: UnregisterComponent: (/Engine/Transient.LineBatchComponent_54) Not registered. Aborting.
+[2021.01.28-07.57.32:791][991]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.28-07.57.32:935][991]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2021.01.28-07.57.33:401][991]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2021.01.28-07.57.33:401][991]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_TrackerBot.BP_TrackerBot
+[2021.01.28-07.58.07:433][113]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-07.58.07:458][113]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2021.01.28-07.58.07:459][113]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-07.58.07:459][113]PIE: New page: PIE session: P_TestMap (Jan 28, 2021, 6:58:07 PM)
+[2021.01.28-07.58.07:460][113]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_P_TestMap
+[2021.01.28-07.58.07:467][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007725s)
+[2021.01.28-07.58.07:468][113]LogAIModule: Creating AISystem for world P_TestMap
+[2021.01.28-07.58.07:469][113]LogPlayLevel: PIE: World Init took: (0.001441s)
+[2021.01.28-07.58.07:470][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/P_TestMap.P_TestMap to /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap (0.010023s)
+[2021.01.28-07.58.07:513][113]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2021.01.28-07.58.07:534][113]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.01.28-07.58.07:560][113]LogInit: FAudioDevice initialized.
+[2021.01.28-07.58.07:570][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-07.58.07:605][113]LogLoad: Game class is 'BP_TestGameMode_C'
+[2021.01.28-07.58.07:609][113]LogWorld: Bringing World /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap up for play (max tick rate 0) at 2021.01.28-13.28.07
+[2021.01.28-07.58.07:610][113]LogWorld: Bringing up level for play took: 0.004014
+[2021.01.28-07.58.07:627][113]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_P_TestMap -0.535
+[2021.01.28-07.58.07:627][113]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2021.01.28-07.58.07:686][115]LogRenderer: Reallocating scene render targets to support 1272x688 Format 10 NumSamples 1 (Frame:1).
+[2021.01.28-07.58.13:375][752]LogTemp: Health Changed: 80.0
+[2021.01.28-07.58.13:375][752]LogTemp: Damage Changed: 20.0
+[2021.01.28-07.58.13:375][752]LogTemp: Health 80.0 of BP_TrackerBot_2
+[2021.01.28-07.58.13:469][763]LogTemp: Health Changed: 60.0
+[2021.01.28-07.58.13:469][763]LogTemp: Damage Changed: 20.0
+[2021.01.28-07.58.13:469][763]LogTemp: Health 60.0 of BP_TrackerBot_2
+[2021.01.28-07.58.13:680][785]LogTemp: Health Changed: 40.0
+[2021.01.28-07.58.13:681][785]LogTemp: Damage Changed: 20.0
+[2021.01.28-07.58.13:681][785]LogTemp: Health 40.0 of BP_TrackerBot_2
+[2021.01.28-07.58.13:771][795]LogTemp: Health Changed: 20.0
+[2021.01.28-07.58.13:771][795]LogTemp: Damage Changed: 20.0
+[2021.01.28-07.58.13:771][795]LogTemp: Health 20.0 of BP_TrackerBot_2
+[2021.01.28-07.58.13:875][807]LogTemp: Health Changed: 0.0
+[2021.01.28-07.58.13:875][807]LogTemp: Damage Changed: 20.0
+[2021.01.28-07.58.13:875][807]LogTemp: Health 0.0 of BP_TrackerBot_2
+[2021.01.28-07.58.13:875][807]LogTemp: Health Changed: 60.0
+[2021.01.28-07.58.13:875][807]LogTemp: Damage Changed: 40.0
+[2021.01.28-07.58.16:894][162]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2021.01.28-07.58.16:895][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-07.58.16:912][162]LogSlate: Window 'COOPGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.01.28-07.58.16:956][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-07.58.16:956][162]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2021.01.28-07.58.17:006][162]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.01.28-07.58.17:077][163]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.01.28-07.58.19:202][417]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-07.58.19:231][417]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2021.01.28-07.58.19:231][417]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-07.58.19:232][417]PIE: New page: PIE session: P_TestMap (Jan 28, 2021, 6:58:19 PM)
+[2021.01.28-07.58.19:232][417]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_P_TestMap
+[2021.01.28-07.58.19:238][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006206s)
+[2021.01.28-07.58.19:239][417]LogAIModule: Creating AISystem for world P_TestMap
+[2021.01.28-07.58.19:239][417]LogPlayLevel: PIE: World Init took: (0.001084s)
+[2021.01.28-07.58.19:240][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/P_TestMap.P_TestMap to /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap (0.007870s)
+[2021.01.28-07.58.19:272][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.01.28-07.58.19:287][417]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.01.28-07.58.19:307][417]LogInit: FAudioDevice initialized.
+[2021.01.28-07.58.19:318][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-07.58.19:357][417]LogLoad: Game class is 'BP_TestGameMode_C'
+[2021.01.28-07.58.19:361][417]LogWorld: Bringing World /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap up for play (max tick rate 0) at 2021.01.28-13.28.19
+[2021.01.28-07.58.19:363][417]LogWorld: Bringing up level for play took: 0.005104
+[2021.01.28-07.58.19:379][417]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_P_TestMap -0.782
+[2021.01.28-07.58.19:380][417]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2021.01.28-07.58.23:229][855]LogTemp: Health Changed: 80.0
+[2021.01.28-07.58.23:229][855]LogTemp: Damage Changed: 20.0
+[2021.01.28-07.58.23:229][855]LogTemp: Health 80.0 of BP_TrackerBot_2
+[2021.01.28-07.58.23:324][866]LogTemp: Health Changed: 60.0
+[2021.01.28-07.58.23:324][866]LogTemp: Damage Changed: 20.0
+[2021.01.28-07.58.23:324][866]LogTemp: Health 60.0 of BP_TrackerBot_2
+[2021.01.28-07.58.23:648][899]LogTemp: Health Changed: 40.0
+[2021.01.28-07.58.23:648][899]LogTemp: Damage Changed: 20.0
+[2021.01.28-07.58.23:648][899]LogTemp: Health 40.0 of BP_TrackerBot_2
+[2021.01.28-07.58.23:742][910]LogTemp: Health Changed: 20.0
+[2021.01.28-07.58.23:742][910]LogTemp: Damage Changed: 20.0
+[2021.01.28-07.58.23:743][910]LogTemp: Health 20.0 of BP_TrackerBot_2
+[2021.01.28-07.58.24:081][949]LogTemp: Health Changed: 0.0
+[2021.01.28-07.58.24:082][949]LogTemp: Damage Changed: 20.0
+[2021.01.28-07.58.24:082][949]LogTemp: Health 0.0 of BP_TrackerBot_2
+[2021.01.28-07.58.29:624][606]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2021.01.28-07.58.29:625][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-07.58.29:645][606]LogSlate: Window 'COOPGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.01.28-07.58.29:690][606]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-07.58.29:691][606]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2021.01.28-07.58.29:740][606]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.01.28-07.58.29:813][607]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.01.28-07.58.39:183][729]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-07.58.39:212][729]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2021.01.28-07.58.39:213][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-07.58.39:214][729]PIE: New page: PIE session: P_TestMap (Jan 28, 2021, 6:58:39 PM)
+[2021.01.28-07.58.39:214][729]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_P_TestMap
+[2021.01.28-07.58.39:222][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007482s)
+[2021.01.28-07.58.39:222][729]LogAIModule: Creating AISystem for world P_TestMap
+[2021.01.28-07.58.39:223][729]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2021.01.28-07.58.39:223][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/P_TestMap.P_TestMap to /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap (0.008961s)
+[2021.01.28-07.58.39:261][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.01.28-07.58.39:277][729]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.01.28-07.58.39:300][729]LogInit: FAudioDevice initialized.
+[2021.01.28-07.58.39:334][729]LogLoad: Game class is 'BP_TestGameMode_C'
+[2021.01.28-07.58.39:338][729]LogWorld: Bringing World /Game/Maps/UEDPIE_0_P_TestMap.P_TestMap up for play (max tick rate 0) at 2021.01.28-13.28.39
+[2021.01.28-07.58.39:338][729]LogWorld: Bringing up level for play took: 0.003306
+[2021.01.28-07.58.39:353][729]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_P_TestMap -0.809
+[2021.01.28-07.58.39:354][729]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2021.01.28-07.58.43:688][244]LogTemp: Health Changed: 80.0
+[2021.01.28-07.58.43:688][244]LogTemp: Damage Changed: 20.0
+[2021.01.28-07.58.43:688][244]LogTemp: Health 80.0 of BP_TrackerBot_2
+[2021.01.28-07.58.45:745][490]LogTemp: Health Changed: 60.0
+[2021.01.28-07.58.45:746][490]LogTemp: Damage Changed: 20.0
+[2021.01.28-07.58.45:746][490]LogTemp: Health 60.0 of BP_TrackerBot_2
+[2021.01.28-07.58.45:913][510]LogTemp: Health Changed: 40.0
+[2021.01.28-07.58.45:913][510]LogTemp: Damage Changed: 20.0
+[2021.01.28-07.58.45:913][510]LogTemp: Health 40.0 of BP_TrackerBot_2
+[2021.01.28-07.58.46:114][534]LogTemp: Health Changed: 20.0
+[2021.01.28-07.58.46:115][534]LogTemp: Damage Changed: 20.0
+[2021.01.28-07.58.46:115][534]LogTemp: Health 20.0 of BP_TrackerBot_2
+[2021.01.28-07.58.46:914][630]LogTemp: Health Changed: 0.0
+[2021.01.28-07.58.46:915][630]LogTemp: Damage Changed: 20.0
+[2021.01.28-07.58.46:915][630]LogTemp: Health 0.0 of BP_TrackerBot_2
+[2021.01.28-07.58.48:564][827]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2021.01.28-07.58.48:565][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-07.58.48:598][827]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-07.58.48:598][827]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap' with GeneratedClass '/Game/Maps/P_TestMap.P_TestMap_C' with ClassGeneratedBy '/Game/Maps/P_TestMap.P_TestMap:PersistentLevel.P_TestMap'
+[2021.01.28-07.58.48:640][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-07.58.48:645][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.01.28-07.58.48:670][828]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.01.28-07.59.59:551][473]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.28-08.01.20:176][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.01.28-08.01.20:358][854]LogSlate: Window 'COOPGame - Unreal Editor' being destroyed
+[2021.01.28-08.01.20:360][854]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.01.28-08.01.20:713][855]Cmd: QUIT_EDITOR
+[2021.01.28-08.01.21:680][855]LogExit: Preparing to exit.
+[2021.01.28-08.01.22:526][855]LogExit: Editor shut down
+[2021.01.28-08.01.22:526][855]LogExit: Transaction tracking system shut down
+[2021.01.28-08.01.22:831][855]LogExit: Object subsystem successfully closed.
+[2021.01.28-08.01.22:858][855]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.01.28-08.01.22:868][855]LogD3D11RHI: Shutdown
+[2021.01.28-08.01.22:868][855]LogD3D11RHI: CleanupD3DDevice
+[2021.01.28-08.01.22:869][855]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2021.01.28-08.01.22:869][855]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2021.01.28-08.01.22:869][855]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2021.01.28-08.01.22:869][855]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2021.01.28-08.01.22:869][855]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2021.01.28-08.01.22:869][855]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2021.01.28-08.01.23:034][855]LogD3D11RHI: ~FD3D11DynamicRHI
+[2021.01.28-08.01.23:093][855]LogModuleManager: Shutting down and abandoning module COOPGame (655)
+[2021.01.28-08.01.23:093][855]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (653)
+[2021.01.28-08.01.23:093][855]LogModuleManager: Shutting down and abandoning module Voice (651)
+[2021.01.28-08.01.23:093][855]LogModuleManager: Shutting down and abandoning module BlueprintGraph (648)
+[2021.01.28-08.01.23:093][855]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (646)
+[2021.01.28-08.01.23:093][855]LogModuleManager: Shutting down and abandoning module SceneOutliner (644)
+[2021.01.28-08.01.23:093][855]LogModuleManager: Shutting down and abandoning module AddContentDialog (642)
+[2021.01.28-08.01.23:096][855]LogModuleManager: Shutting down and abandoning module WidgetCarousel (641)
+[2021.01.28-08.01.23:096][855]LogModuleManager: Shutting down and abandoning module EditorWidgets (638)
+[2021.01.28-08.01.23:096][855]LogModuleManager: Shutting down and abandoning module CollectionManager (636)
+[2021.01.28-08.01.23:096][855]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (634)
+[2021.01.28-08.01.23:096][855]LogModuleManager: Shutting down and abandoning module StatsViewer (632)
+[2021.01.28-08.01.23:096][855]LogModuleManager: Shutting down and abandoning module FoliageEdit (630)
+[2021.01.28-08.01.23:096][855]LogModuleManager: Shutting down and abandoning module LandscapeEditor (628)
+[2021.01.28-08.01.23:100][855]LogModuleManager: Shutting down and abandoning module MeshPaintMode (626)
+[2021.01.28-08.01.23:100][855]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (624)
+[2021.01.28-08.01.23:100][855]LogModuleManager: Shutting down and abandoning module ActorPickerMode (622)
+[2021.01.28-08.01.23:100][855]LogModuleManager: Shutting down and abandoning module GeometryMode (620)
+[2021.01.28-08.01.23:100][855]LogModuleManager: Shutting down and abandoning module TextureAlignMode (618)
+[2021.01.28-08.01.23:100][855]LogModuleManager: Shutting down and abandoning module BspMode (616)
+[2021.01.28-08.01.23:101][855]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (614)
+[2021.01.28-08.01.23:101][855]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (612)
+[2021.01.28-08.01.23:101][855]LogModuleManager: Shutting down and abandoning module AutomationWorker (610)
+[2021.01.28-08.01.23:101][855]LogModuleManager: Shutting down and abandoning module OculusMR (608)
+[2021.01.28-08.01.23:101][855]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (606)
+[2021.01.28-08.01.23:101][855]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (604)
+[2021.01.28-08.01.23:101][855]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (602)
+[2021.01.28-08.01.23:104][855]LogModuleManager: Shutting down and abandoning module PlacementMode (601)
+[2021.01.28-08.01.23:104][855]LogModuleManager: Shutting down and abandoning module MaterialEditor (600)
+[2021.01.28-08.01.23:105][855]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (596)
+[2021.01.28-08.01.23:105][855]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (594)
+[2021.01.28-08.01.23:105][855]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (592)
+[2021.01.28-08.01.23:105][855]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (590)
+[2021.01.28-08.01.23:105][855]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (588)
+[2021.01.28-08.01.23:105][855]LogModuleManager: Shutting down and abandoning module WebMMedia (586)
+[2021.01.28-08.01.23:105][855]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (584)
+[2021.01.28-08.01.23:105][855]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (582)
+[2021.01.28-08.01.23:106][855]LogModuleManager: Shutting down and abandoning module SequenceRecorder (581)
+[2021.01.28-08.01.23:106][855]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (578)
+[2021.01.28-08.01.23:106][855]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (576)
+[2021.01.28-08.01.23:106][855]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (574)
+[2021.01.28-08.01.23:106][855]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (572)
+[2021.01.28-08.01.23:106][855]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (570)
+[2021.01.28-08.01.23:106][855]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (568)
+[2021.01.28-08.01.23:106][855]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (566)
+[2021.01.28-08.01.23:106][855]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (564)
+[2021.01.28-08.01.23:106][855]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (562)
+[2021.01.28-08.01.23:106][855]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (560)
+[2021.01.28-08.01.23:106][855]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (558)
+[2021.01.28-08.01.23:106][855]LogModuleManager: Shutting down and abandoning module CharacterAI (556)
+[2021.01.28-08.01.23:106][855]LogModuleManager: Shutting down and abandoning module SmartSnapping (554)
+[2021.01.28-08.01.23:106][855]LogModuleManager: Shutting down and abandoning module SessionServices (552)
+[2021.01.28-08.01.23:106][855]LogModuleManager: Shutting down and abandoning module MeshPaint (550)
+[2021.01.28-08.01.23:106][855]LogModuleManager: Shutting down and abandoning module ViewportSnapping (548)
+[2021.01.28-08.01.23:106][855]LogModuleManager: Shutting down and abandoning module ViewportInteraction (546)
+[2021.01.28-08.01.23:106][855]LogModuleManager: Shutting down and abandoning module ClothPainter (544)
+[2021.01.28-08.01.23:107][855]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (543)
+[2021.01.28-08.01.23:111][855]LogModuleManager: Shutting down and abandoning module LogVisualizer (540)
+[2021.01.28-08.01.23:111][855]LogModuleManager: Shutting down and abandoning module IntroTutorials (538)
+[2021.01.28-08.01.23:111][855]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (537)
+[2021.01.28-08.01.23:111][855]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (534)
+[2021.01.28-08.01.23:111][855]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (532)
+[2021.01.28-08.01.23:111][855]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (530)
+[2021.01.28-08.01.23:111][855]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (528)
+[2021.01.28-08.01.23:111][855]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (527)
+[2021.01.28-08.01.24:319][855]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (524)
+[2021.01.28-08.01.24:319][855]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (522)
+[2021.01.28-08.01.24:319][855]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (520)
+[2021.01.28-08.01.24:319][855]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (518)
+[2021.01.28-08.01.24:320][855]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (516)
+[2021.01.28-08.01.24:320][855]LogModuleManager: Shutting down and abandoning module InputBindingEditor (514)
+[2021.01.28-08.01.24:419][855]LogModuleManager: Shutting down and abandoning module MergeActors (512)
+[2021.01.28-08.01.24:419][855]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (510)
+[2021.01.28-08.01.24:419][855]LogModuleManager: Shutting down and abandoning module LocalizationService (509)
+[2021.01.28-08.01.24:419][855]LogModuleManager: Shutting down and abandoning module HardwareTargeting (506)
+[2021.01.28-08.01.24:419][855]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (504)
+[2021.01.28-08.01.24:419][855]LogModuleManager: Shutting down and abandoning module UndoHistory (502)
+[2021.01.28-08.01.24:423][855]LogModuleManager: Shutting down and abandoning module XmlParser (500)
+[2021.01.28-08.01.24:424][855]LogModuleManager: Shutting down and abandoning module Blutility (498)
+[2021.01.28-08.01.24:424][855]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (496)
+[2021.01.28-08.01.24:424][855]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (495)
+[2021.01.28-08.01.24:425][855]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (492)
+[2021.01.28-08.01.24:425][855]LogModuleManager: Shutting down and abandoning module SettingsEditor (490)
+[2021.01.28-08.01.24:425][855]LogModuleManager: Shutting down and abandoning module ProjectLauncher (488)
+[2021.01.28-08.01.24:426][855]LogModuleManager: Shutting down and abandoning module SessionFrontend (486)
+[2021.01.28-08.01.24:426][855]LogModuleManager: Shutting down and abandoning module ProfilerClient (484)
+[2021.01.28-08.01.24:427][855]LogModuleManager: Shutting down and abandoning module DeviceManager (482)
+[2021.01.28-08.01.24:427][855]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (481)
+[2021.01.28-08.01.24:483][855]LogModuleManager: Shutting down and abandoning module AutomationController (478)
+[2021.01.28-08.01.24:483][855]LogModuleManager: Shutting down and abandoning module AutomationWindow (476)
+[2021.01.28-08.01.24:484][855]LogModuleManager: Shutting down and abandoning module Layers (474)
+[2021.01.28-08.01.24:487][855]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (472)
+[2021.01.28-08.01.24:487][855]LogModuleManager: Shutting down and abandoning module DetailCustomizations (470)
+[2021.01.28-08.01.24:488][855]LogModuleManager: Shutting down and abandoning module PackagesDialog (468)
+[2021.01.28-08.01.24:488][855]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (466)
+[2021.01.28-08.01.24:489][855]LogModuleManager: Shutting down and abandoning module Persona (464)
+[2021.01.28-08.01.24:490][855]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (463)
+[2021.01.28-08.01.24:491][855]LogModuleManager: Shutting down and abandoning module AnimGraph (461)
+[2021.01.28-08.01.24:491][855]LogModuleManager: Shutting down and abandoning module Kismet (458)
+[2021.01.28-08.01.24:497][855]LogModuleManager: Shutting down and abandoning module GraphEditor (456)
+[2021.01.28-08.01.24:497][855]LogModuleManager: Shutting down and abandoning module ClassViewer (454)
+[2021.01.28-08.01.24:497][855]LogModuleManager: Shutting down and abandoning module Toolbox (452)
+[2021.01.28-08.01.24:497][855]LogModuleManager: Shutting down and abandoning module DesktopPlatform (451)
+[2021.01.28-08.01.24:497][855]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2021.01.28-08.01.24:498][855]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2021.01.28-08.01.24:498][855]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2021.01.28-08.01.24:498][855]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2021.01.28-08.01.24:498][855]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2021.01.28-08.01.24:498][855]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2021.01.28-08.01.24:498][855]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2021.01.28-08.01.24:498][855]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2021.01.28-08.01.24:498][855]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2021.01.28-08.01.24:498][855]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2021.01.28-08.01.24:498][855]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2021.01.28-08.01.24:498][855]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2021.01.28-08.01.24:498][855]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2021.01.28-08.01.24:498][855]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2021.01.28-08.01.24:498][855]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2021.01.28-08.01.24:498][855]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2021.01.28-08.01.24:498][855]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2021.01.28-08.01.24:498][855]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2021.01.28-08.01.24:498][855]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2021.01.28-08.01.24:498][855]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (410)
+[2021.01.28-08.01.24:503][855]LogModuleManager: Shutting down and abandoning module ProfilerService (408)
+[2021.01.28-08.01.24:552][855]LogModuleManager: Shutting down and abandoning module TaskGraph (406)
+[2021.01.28-08.01.24:553][855]LogModuleManager: Shutting down and abandoning module SteamVRController (404)
+[2021.01.28-08.01.24:553][855]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (402)
+[2021.01.28-08.01.24:553][855]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (400)
+[2021.01.28-08.01.24:553][855]LogModuleManager: Shutting down and abandoning module OculusEditor (398)
+[2021.01.28-08.01.24:553][855]LogModuleManager: Shutting down and abandoning module OculusInput (396)
+[2021.01.28-08.01.24:553][855]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (394)
+[2021.01.28-08.01.24:553][855]LogModuleManager: Shutting down and abandoning module EditableMesh (392)
+[2021.01.28-08.01.24:553][855]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (390)
+[2021.01.28-08.01.24:553][855]LogModuleManager: Shutting down and abandoning module CableComponent (388)
+[2021.01.28-08.01.24:553][855]LogModuleManager: Shutting down and abandoning module AudioCapture (386)
+[2021.01.28-08.01.24:553][855]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (384)
+[2021.01.28-08.01.24:553][855]LogModuleManager: Shutting down and abandoning module AndroidPermission (382)
+[2021.01.28-08.01.24:553][855]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (380)
+[2021.01.28-08.01.24:553][855]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (378)
+[2021.01.28-08.01.24:553][855]LogModuleManager: Shutting down and abandoning module MediaCompositing (376)
+[2021.01.28-08.01.24:553][855]LogModuleManager: Shutting down and abandoning module LinearTimecode (374)
+[2021.01.28-08.01.24:553][855]LogModuleManager: Shutting down and abandoning module ImgMedia (372)
+[2021.01.28-08.01.24:553][855]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (370)
+[2021.01.28-08.01.24:553][855]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (368)
+[2021.01.28-08.01.24:553][855]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (366)
+[2021.01.28-08.01.24:554][855]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2021.01.28-08.01.24:554][855]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2021.01.28-08.01.24:554][855]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2021.01.28-08.01.24:554][855]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2021.01.28-08.01.24:554][855]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2021.01.28-08.01.24:554][855]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2021.01.28-08.01.24:554][855]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2021.01.28-08.01.24:554][855]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2021.01.28-08.01.24:554][855]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2021.01.28-08.01.24:554][855]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2021.01.28-08.01.24:554][855]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2021.01.28-08.01.24:554][855]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2021.01.28-08.01.24:554][855]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2021.01.28-08.01.24:554][855]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2021.01.28-08.01.24:554][855]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2021.01.28-08.01.24:554][855]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2021.01.28-08.01.24:555][855]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (332)
+[2021.01.28-08.01.24:555][855]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2021.01.28-08.01.24:555][855]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2021.01.28-08.01.24:555][855]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2021.01.28-08.01.24:555][855]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2021.01.28-08.01.24:555][855]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2021.01.28-08.01.24:555][855]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2021.01.28-08.01.24:555][855]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2021.01.28-08.01.24:556][855]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2021.01.28-08.01.24:556][855]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2021.01.28-08.01.24:556][855]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2021.01.28-08.01.24:556][855]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (310)
+[2021.01.28-08.01.24:556][855]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2021.01.28-08.01.24:556][855]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2021.01.28-08.01.24:556][855]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2021.01.28-08.01.24:556][855]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2021.01.28-08.01.24:556][855]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2021.01.28-08.01.24:557][855]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2021.01.28-08.01.24:557][855]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2021.01.28-08.01.24:557][855]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2021.01.28-08.01.24:557][855]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2021.01.28-08.01.24:557][855]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2021.01.28-08.01.24:557][855]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2021.01.28-08.01.24:557][855]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2021.01.28-08.01.24:557][855]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2021.01.28-08.01.24:658][855]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2021.01.28-08.01.24:759][855]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2021.01.28-08.01.24:759][855]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2021.01.28-08.01.24:759][855]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2021.01.28-08.01.24:759][855]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2021.01.28-08.01.24:759][855]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2021.01.28-08.01.24:759][855]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.01.28-08.01.24:759][855]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2021.01.28-08.01.24:759][855]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2021.01.28-08.01.24:759][855]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2021.01.28-08.01.24:759][855]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2021.01.28-08.01.24:759][855]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2021.01.28-08.01.24:759][855]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2021.01.28-08.01.24:759][855]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2021.01.28-08.01.24:761][855]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2021.01.28-08.01.24:762][855]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2021.01.28-08.01.24:763][855]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2021.01.28-08.01.24:763][855]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2021.01.28-08.01.24:763][855]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2021.01.28-08.01.24:764][855]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2021.01.28-08.01.24:765][855]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2021.01.28-08.01.24:765][855]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2021.01.28-08.01.24:765][855]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2021.01.28-08.01.24:765][855]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2021.01.28-08.01.24:765][855]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2021.01.28-08.01.24:765][855]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2021.01.28-08.01.24:765][855]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2021.01.28-08.01.24:765][855]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2021.01.28-08.01.24:765][855]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2021.01.28-08.01.24:765][855]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2021.01.28-08.01.24:767][855]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2021.01.28-08.01.24:767][855]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2021.01.28-08.01.24:767][855]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2021.01.28-08.01.24:767][855]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2021.01.28-08.01.24:768][855]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2021.01.28-08.01.24:769][855]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2021.01.28-08.01.24:770][855]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2021.01.28-08.01.24:771][855]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2021.01.28-08.01.24:771][855]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2021.01.28-08.01.24:771][855]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2021.01.28-08.01.24:771][855]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2021.01.28-08.01.24:771][855]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2021.01.28-08.01.24:772][855]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2021.01.28-08.01.24:775][855]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2021.01.28-08.01.24:775][855]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2021.01.28-08.01.24:778][855]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2021.01.28-08.01.24:778][855]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2021.01.28-08.01.24:781][855]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2021.01.28-08.01.24:781][855]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2021.01.28-08.01.24:781][855]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2021.01.28-08.01.24:781][855]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2021.01.28-08.01.24:781][855]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2021.01.28-08.01.24:781][855]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2021.01.28-08.01.24:781][855]LogModuleManager: Shutting down and abandoning module Core (174)
+[2021.01.28-08.01.24:781][855]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2021.01.28-08.01.24:781][855]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2021.01.28-08.01.24:781][855]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2021.01.28-08.01.24:781][855]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2021.01.28-08.01.24:781][855]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2021.01.28-08.01.24:783][855]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2021.01.28-08.01.24:784][855]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2021.01.28-08.01.24:784][855]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2021.01.28-08.01.24:784][855]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2021.01.28-08.01.24:836][855]LogDerivedDataCache: Shutdown
+[2021.01.28-08.01.24:836][855]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2021.01.28-08.01.24:836][855]LogXGEController: Cleaning working directory: C:/Users/ADMIN/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.01.28-08.01.24:836][855]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2021.01.28-08.01.24:836][855]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2021.01.28-08.01.24:836][855]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2021.01.28-08.01.24:836][855]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2021.01.28-08.01.24:837][855]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2021.01.28-08.01.24:837][855]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2021.01.28-08.01.24:838][855]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2021.01.28-08.01.24:838][855]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2021.01.28-08.01.24:838][855]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2021.01.28-08.01.24:838][855]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2021.01.28-08.01.24:838][855]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2021.01.28-08.01.24:838][855]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2021.01.28-08.01.24:838][855]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2021.01.28-08.01.24:838][855]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2021.01.28-08.01.24:838][855]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2021.01.28-08.01.24:838][855]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2021.01.28-08.01.24:838][855]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2021.01.28-08.01.24:848][855]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2021.01.28-08.01.24:848][855]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2021.01.28-08.01.24:848][855]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2021.01.28-08.01.24:848][855]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2021.01.28-08.01.24:848][855]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2021.01.28-08.01.24:853][855]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2021.01.28-08.01.24:853][855]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2021.01.28-08.01.24:858][855]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2021.01.28-08.01.24:858][855]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2021.01.28-08.01.24:897][855]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2021.01.28-08.01.24:897][855]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2021.01.28-08.01.24:897][855]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2021.01.28-08.01.24:897][855]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2021.01.28-08.01.24:898][855]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2021.01.28-08.01.24:898][855]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2021.01.28-08.01.24:898][855]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2021.01.28-08.01.24:898][855]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2021.01.28-08.01.24:898][855]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2021.01.28-08.01.24:898][855]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2021.01.28-08.01.24:898][855]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2021.01.28-08.01.24:898][855]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2021.01.28-08.01.24:899][855]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2021.01.28-08.01.24:899][855]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2021.01.28-08.01.24:899][855]LogHMD: Freeing OpenVRDLLHandle.
+[2021.01.28-08.01.24:899][855]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2021.01.28-08.01.24:899][855]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2021.01.28-08.01.24:899][855]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2021.01.28-08.01.24:899][855]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2021.01.28-08.01.24:899][855]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2021.01.28-08.01.24:900][855]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2021.01.28-08.01.24:902][855]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2021.01.28-08.01.24:916][855]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2021.01.28-08.01.24:916][855]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.01.28-08.01.24:917][855]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8FB1E1B2-44EB-3D82-3425-619805E96463%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=d1942f6a4feba2e5963fc3aa2bfdca63%7C57113a4ef07749e899daf8a54070ea17%7Cf4ca8fe6-52f1-41c0-8e75-0852c354e943&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2021.01.28-08.01.24:945][855]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2021.01.28-08.01.24:949][855]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2021.01.28-08.01.24:952][855]LogModuleManager: Shutting down and abandoning module Media (45)
+[2021.01.28-08.01.24:959][855]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2021.01.28-08.01.24:960][855]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2021.01.28-08.01.24:960][855]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.01.28-08.01.24:962][855]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2021.01.28-08.01.24:962][855]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2021.01.28-08.01.24:964][855]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.01.28-08.01.24:964][855]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.01.28-08.01.24:964][855]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.01.28-08.01.24:964][855]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.01.28-08.01.24:966][855]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.01.28-08.01.24:967][855]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.01.28-08.01.24:967][855]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.01.28-08.01.24:967][855]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.01.28-08.01.24:967][855]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.01.28-08.01.24:967][855]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.01.28-08.01.24:967][855]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.01.28-08.01.24:968][855]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.01.28-08.01.24:968][855]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.01.28-08.01.24:969][855]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.01.28-08.01.24:969][855]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.01.28-08.01.24:969][855]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.01.28-08.01.24:984][855]LogExit: Exiting.
+[2021.01.28-08.01.24:997][855]Log file closed, 01/28/21 13:31:24

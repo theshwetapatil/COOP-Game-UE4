@@ -20,17 +20,17 @@ class AActor;
 #define COOPGame_Source_COOPGame_Public_Components_SHealthComponent_h_10_DELEGATE \
 struct _Script_COOPGame_eventOnHealthChangedSignature_Parms \
 { \
-	USHealthComponent* HealthComp; \
+	USHealthComponent* OwningHealthComp; \
 	float Health; \
 	float HealthDelta; \
 	const UDamageType* DamageType; \
 	AController* InstigatedBy; \
 	AActor* DamageCauser; \
 }; \
-static inline void FOnHealthChangedSignature_DelegateWrapper(const FMulticastScriptDelegate& OnHealthChangedSignature, USHealthComponent* HealthComp, float Health, float HealthDelta, const UDamageType* DamageType, AController* InstigatedBy, AActor* DamageCauser) \
+static inline void FOnHealthChangedSignature_DelegateWrapper(const FMulticastScriptDelegate& OnHealthChangedSignature, USHealthComponent* OwningHealthComp, float Health, float HealthDelta, const UDamageType* DamageType, AController* InstigatedBy, AActor* DamageCauser) \
 { \
 	_Script_COOPGame_eventOnHealthChangedSignature_Parms Parms; \
-	Parms.HealthComp=HealthComp; \
+	Parms.OwningHealthComp=OwningHealthComp; \
 	Parms.Health=Health; \
 	Parms.HealthDelta=HealthDelta; \
 	Parms.DamageType=DamageType; \
@@ -53,6 +53,15 @@ static inline void FOnHealthChangedSignature_DelegateWrapper(const FMulticastScr
 		P_NATIVE_BEGIN; \
 		P_THIS->HandleTakeAnyDamage(Z_Param_DamagedActor,Z_Param_Damage,Z_Param_DamageType,Z_Param_InstigatedBy,Z_Param_DamageCauser); \
 		P_NATIVE_END; \
+	} \
+ \
+	DECLARE_FUNCTION(execOnRep_Health) \
+	{ \
+		P_GET_PROPERTY(UFloatProperty,Z_Param_OldHealth); \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->OnRep_Health(Z_Param_OldHealth); \
+		P_NATIVE_END; \
 	}
 
 
@@ -68,6 +77,15 @@ static inline void FOnHealthChangedSignature_DelegateWrapper(const FMulticastScr
 		P_FINISH; \
 		P_NATIVE_BEGIN; \
 		P_THIS->HandleTakeAnyDamage(Z_Param_DamagedActor,Z_Param_Damage,Z_Param_DamageType,Z_Param_InstigatedBy,Z_Param_DamageCauser); \
+		P_NATIVE_END; \
+	} \
+ \
+	DECLARE_FUNCTION(execOnRep_Health) \
+	{ \
+		P_GET_PROPERTY(UFloatProperty,Z_Param_OldHealth); \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->OnRep_Health(Z_Param_OldHealth); \
 		P_NATIVE_END; \
 	}
 
