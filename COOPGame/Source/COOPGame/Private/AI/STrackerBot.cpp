@@ -128,9 +128,9 @@ void ASTrackerBot::SelfDestruct()
 		DrawDebugSphere(GetWorld(), GetActorLocation(), ExplosionRadius, 12, FColor::Red, false, 2.0f, 0, 1.0f);
 
 		//Delete Actor immediately
-		Destroy();
+		//Destroy();
 
-		//SetLifeSpan(1.0f);
+		SetLifeSpan(2.0f);
 	}
 }
 
@@ -173,6 +173,8 @@ void ASTrackerBot::Tick(float DeltaTime)
 
 void ASTrackerBot::NotifyActorBeginOverlap(AActor* OtherActor)
 {
+	Super::NotifyActorBeginOverlap(OtherActor);
+
 	if (!bStartedSelfDestruction && !bExploded)
 	{
 		ASCharacter* PlayerPawn = Cast<ASCharacter>(OtherActor);

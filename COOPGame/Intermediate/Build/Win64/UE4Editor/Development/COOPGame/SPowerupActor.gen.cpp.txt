@@ -1,0 +1,5 @@
+C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\UE4Editor\Development\COOPGame\Definitions.COOPGame.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Source\COOPGame/Public/SPowerupActor.h
+C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\UE4Editor\Inc\COOPGame\SPowerupActor.generated.h

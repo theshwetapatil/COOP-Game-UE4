@@ -378,10 +378,14 @@
     <ClInclude Include="..\..\Source\COOPGame\COOPGameGameModeBase.h" />
     <ClCompile Include="..\..\Source\COOPGame\Private\AI\STrackerBot.cpp" />
     <ClCompile Include="..\..\Source\COOPGame\Private\SCharacter.cpp" />
+    <ClCompile Include="..\..\Source\COOPGame\Private\SPickupActor.cpp" />
+    <ClCompile Include="..\..\Source\COOPGame\Private\SPowerupActor.cpp" />
     <ClCompile Include="..\..\Source\COOPGame\Private\SWeapon.cpp" />
     <ClCompile Include="..\..\Source\COOPGame\Private\Components\SHealthComponent.cpp" />
     <ClInclude Include="..\..\Source\COOPGame\Public\AI\STrackerBot.h" />
     <ClInclude Include="..\..\Source\COOPGame\Public\SCharacter.h" />
+    <ClInclude Include="..\..\Source\COOPGame\Public\SPickupActor.h" />
+    <ClInclude Include="..\..\Source\COOPGame\Public\SPowerupActor.h" />
     <ClInclude Include="..\..\Source\COOPGame\Public\SWeapon.h" />
     <ClInclude Include="..\..\Source\COOPGame\Public\Components\SHealthComponent.h" />
   </ItemGroup>
