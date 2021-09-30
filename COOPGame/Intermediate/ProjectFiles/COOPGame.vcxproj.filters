@@ -93,6 +93,15 @@
     <ClInclude Include="..\..\Source\COOPGame\Public\SPowerupActor.h">
       <Filter>Source\COOPGame\Public</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Source\COOPGame\Public\SGameMode.h">
+      <Filter>Source\COOPGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\COOPGame\Public\SGameState.h">
+      <Filter>Source\COOPGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\COOPGame\Public\SPlayerState.h">
+      <Filter>Source\COOPGame\Public</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\Source\COOPGame\Private\AI\STrackerBot.cpp">
@@ -102,6 +111,15 @@
       <Filter>Source\COOPGame\Private</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\COOPGame\Private\SPowerupActor.cpp">
+      <Filter>Source\COOPGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\COOPGame\Private\SGameMode.cpp">
+      <Filter>Source\COOPGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\COOPGame\Private\SGameState.cpp">
+      <Filter>Source\COOPGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\COOPGame\Private\SPlayerState.cpp">
       <Filter>Source\COOPGame\Private</Filter>
     </ClCompile>
   </ItemGroup>

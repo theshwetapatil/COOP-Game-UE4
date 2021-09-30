@@ -88,6 +88,10 @@ protected:
 	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = "Weapon")
 	float RateOfFire;
 
+	/*Bullet Spread in Degrees*/
+	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = "Weapon", meta= (ClampMin=0.0f))
+	float BulletSpread;
+
 	// Derived from RateOfFire
 	float TimeBetweenShots;
 
@@ -98,8 +102,8 @@ protected:
 	void OnRep_HitScanTrace();
 
 public:	
-	void BeginFire();
-	void EndFire();
+	void StartFire();
+	void StopFire();
 
 	void GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const override;
 };

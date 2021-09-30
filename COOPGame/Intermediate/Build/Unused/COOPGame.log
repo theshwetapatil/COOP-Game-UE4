@@ -1,18 +1,13 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4).
   Creating makefile for COOPGameEditor (ini files are newer than makefile)
   Parsing headers for COOPGameEditor
-    Running UnrealHeaderTool "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\COOPGame.uproject" "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\COOPGameEditor\Development\COOPGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for COOPGameEditor in 6.9604464 seconds
-  Using Visual Studio 2019 14.28.29333 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 7 actions with 8 processes...
-    [1/7] SHealthComponent.gen.cpp
-    [2/7] SHealthComponent.cpp
-    [3/7] SCharacter.cpp
-    [4/7] STrackerBot.cpp
-    [5/7] UE4Editor-COOPGame-0134.lib
-       Creating library C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\UE4Editor\Development\COOPGame\UE4Editor-COOPGame-0134.lib and object C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\UE4Editor\Development\COOPGame\UE4Editor-COOPGame-0134.exp
-    [6/7] UE4Editor-COOPGame-0134.dll
-       Creating library C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\UE4Editor\Development\COOPGame\UE4Editor-COOPGame-0134.suppressed.lib and object C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\UE4Editor\Development\COOPGame\UE4Editor-COOPGame-0134.suppressed.exp
-    [7/7] COOPGameEditor.target
-  Total time in Parallel executor: 3.49 seconds
-  Total execution time: 12.63 seconds
+    Running UnrealHeaderTool "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\COOPGame.uproject" "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\COOPGameEditor\DebugGame\COOPGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for COOPGameEditor in 6.7381753 seconds
+  Using Visual Studio 2019 14.28.29910 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 8 processes...
+    [1/4] SGameMode.cpp
+    [2/4] UE4Editor-COOPGame-Win64-DebugGame.lib
+       Creating library C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\UE4Editor\DebugGame\COOPGame\UE4Editor-COOPGame-Win64-DebugGame.lib and object C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\UE4Editor\DebugGame\COOPGame\UE4Editor-COOPGame-Win64-DebugGame.exp
+    [3/4] UE4Editor-COOPGame-Win64-DebugGame.dll
+LINK : fatal error LNK1104: cannot open file 'C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Binaries\Win64\UE4Editor-COOPGame-Win64-DebugGame.dll'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(47,5): error MSB3075: The command ""C:\Program Files\Epic Games\UE_4.22\Engine\Build\BatchFiles\Build.bat" COOPGameEditor Win64 DebugGame -Project="C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\COOPGame.uproject" -WaitMutex -FromMsBuild" exited with code 5. Please verify that you have sufficient rights to run this command.

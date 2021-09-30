@@ -1,0 +1,2 @@
+C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\UE4\DebugGame\COOPGame\Definitions.COOPGame.h
+C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Source\COOPGame\COOPGame.h

@@ -1,0 +1,1215 @@
+﻿Log file open, 09/25/21 10:49:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: COOPGame
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.408337
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 2400G with Radeon Vega Graphics    , GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  /Game/Maps/P_TestMap -game -PIEVIACONSOLE -ResX=1280 -ResY=720 -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.09.25-05.19.36:854][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2021.09.25-05.19.36:854][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.09.25-05.19.36:854][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Engine.ini]
+[2021.09.25-05.19.36:854][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.09.25-05.19.36:854][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2021.09.25-05.19.36:854][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Engine.ini]
+[2021.09.25-05.19.36:854][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Engine.ini]
+[2021.09.25-05.19.36:854][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.09.25-05.19.36:854][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.09.25-05.19.36:854][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.09.25-05.19.36:854][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.09.25-05.19.36:854][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.09.25-05.19.36:854][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.09.25-05.19.36:855][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.09.25-05.19.36:855][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.09.25-05.19.36:855][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.09.25-05.19.36:855][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.09.25-05.19.36:855][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.09.25-05.19.36:855][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.09.25-05.19.36:855][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.09.25-05.19.36:855][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Engine.ini]
+[2021.09.25-05.19.36:855][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.09.25-05.19.36:855][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.09.25-05.19.36:855][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.09.25-05.19.36:855][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.09.25-05.19.36:855][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.09.25-05.19.36:855][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.09.25-05.19.36:855][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2021.09.25-05.19.36:855][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.09.25-05.19.36:855][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.09.25-05.19.36:855][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.09.25-05.19.36:855][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.09.25-05.19.36:855][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.09.25-05.19.36:855][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.09.25-05.19.36:855][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Engine.ini]
+[2021.09.25-05.19.36:855][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Engine.ini]
+[2021.09.25-05.19.36:860][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Scalability.ini]
+[2021.09.25-05.19.36:860][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.09.25-05.19.36:860][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.09.25-05.19.36:860][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Scalability.ini]
+[2021.09.25-05.19.36:860][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.09.25-05.19.36:860][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Scalability.ini]
+[2021.09.25-05.19.36:860][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.09.25-05.19.36:860][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.09.25-05.19.36:860][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.09.25-05.19.36:860][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.09.25-05.19.36:860][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.09.25-05.19.36:860][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.09.25-05.19.36:860][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.09.25-05.19.36:860][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.09.25-05.19.36:860][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.09.25-05.19.36:860][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.09.25-05.19.36:860][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.09.25-05.19.36:860][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.09.25-05.19.36:860][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.09.25-05.19.36:860][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.09.25-05.19.36:860][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.09.25-05.19.36:860][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.09.25-05.19.36:860][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.09.25-05.19.36:860][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.09.25-05.19.36:860][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Scalability.ini]
+[2021.09.25-05.19.36:860][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.09.25-05.19.36:860][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.09.25-05.19.36:860][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.09.25-05.19.36:860][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.09.25-05.19.36:860][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Scalability.ini]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Scalability.ini]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Scalability.ini]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.09.25-05.19.36:861][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.09.25-05.19.36:861][  0]LogInit: Selected Device Profile: [Windows]
+[2021.09.25-05.19.36:861][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.09.25-05.19.36:868][  0]LogHAL: Display: Platform has ~ 16 GB [17125855232 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.09.25-05.19.36:868][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2021.09.25-05.19.36:868][  0]LogInit: Going up to parent DeviceProfile []
+[2021.09.25-05.19.36:868][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Scalability.ini]
+[2021.09.25-05.19.36:868][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Scalability.ini]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Scalability.ini]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Scalability.ini]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.09.25-05.19.36:869][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Scalability.ini]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Scalability.ini]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Scalability.ini]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.09.25-05.19.36:870][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.09.25-05.19.36:871][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.09.25-05.19.36:871][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.09.25-05.19.36:871][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.09.25-05.19.36:871][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Saved/Config/Windows/Engine.ini]
+[2021.09.25-05.19.36:871][  0]LogInit: Computer: DESKTOP-C697CL8
+[2021.09.25-05.19.36:871][  0]LogInit: User: ADMIN
+[2021.09.25-05.19.36:871][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.09.25-05.19.36:871][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.09.25-05.19.36:872][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.09.25-05.19.36:872][  0]LogMemory: Platform Memory Stats for Windows
+[2021.09.25-05.19.36:872][  0]LogMemory: Process Physical Memory: 99.07 MB used, 99.07 MB peak
+[2021.09.25-05.19.36:872][  0]LogMemory: Process Virtual Memory: 85.78 MB used, 85.78 MB peak
+[2021.09.25-05.19.36:872][  0]LogMemory: Physical Memory: 8882.63 MB used,  7449.86 MB free, 16332.49 MB total
+[2021.09.25-05.19.36:872][  0]LogMemory: Virtual Memory: 4639.25 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2021.09.25-05.19.36:892][  0]LogInit: Using OS detected language (en-US).
+[2021.09.25-05.19.36:892][  0]LogInit: Using OS detected locale (en-US).
+[2021.09.25-05.19.36:892][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.09.25-05.19.37:166][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.09.25-05.19.37:166][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.09.25-05.19.37:195][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.09.25-05.19.37:195][  0]LogD3D11RHI: D3D11 adapters:
+[2021.09.25-05.19.37:296][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2021.09.25-05.19.37:296][  0]LogD3D11RHI:       4018/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.09.25-05.19.37:300][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.09.25-05.19.37:300][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.09.25-05.19.37:300][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.09.25-05.19.37:308][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.09.25-05.19.37:308][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2021.09.25-05.19.37:308][  0]LogWindows: EnumDisplayDevices:
+[2021.09.25-05.19.37:309][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2021.09.25-05.19.37:309][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:1)
+[2021.09.25-05.19.37:309][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2021.09.25-05.19.37:310][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2021.09.25-05.19.37:310][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.09.25-05.19.37:310][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2021.09.25-05.19.37:310][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2021.09.25-05.19.37:310][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2021.09.25-05.19.37:310][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2021.09.25-05.19.37:380][  0]LogD3D11RHI: Async texture creation enabled
+[2021.09.25-05.19.37:385][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.09.25-05.19.37:386][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.09.25-05.19.37:386][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.09.25-05.19.37:395][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.09.25-05.19.37:737][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2021.09.25-05.19.37:754][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2021.09.25-05.19.37:773][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2021.09.25-05.19.37:783][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2021.09.25-05.19.37:783][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.09.25-05.19.37:793][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.09.25-05.19.37:849][  0]LogShaderCompilers: Guid format shader working directory is -38 characters bigger than the processId version (../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/Intermediate/Shaders/WorkingDirectory/3548/).
+[2021.09.25-05.19.37:849][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ADMIN/AppData/Local/Temp/UnrealShaderWorkingDir/D02B4B3B4FA09239DBB440BB430C8D0F/'.
+[2021.09.25-05.19.37:852][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.09.25-05.19.37:852][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.09.25-05.19.37:852][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.09.25-05.19.38:464][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.09.25-05.19.38:521][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/ADMIN/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2021.09.25-05.19.38:521][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ADMIN/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2021.09.25-05.19.38:521][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.09.25-05.19.38:521][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.09.25-05.19.38:521][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/COOP-Game-UE4/COOPGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.09.25-05.19.38:521][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.09.25-05.19.38:536][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.09.25-05.19.38:536][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.09.25-05.19.38:536][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.09.25-05.19.38:549][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ADMIN/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.09.25-05.19.38:549][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.09.25-05.19.38:549][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.09.25-05.19.38:577][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.09.25-05.19.38:578][  0]LogSlate: Using FreeType 2.6.0
+[2021.09.25-05.19.38:579][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.09.25-05.19.38:704][  0]LogInit: Using OS detected language (en-US).
+[2021.09.25-05.19.38:704][  0]LogInit: Using OS detected locale (en-US).
+[2021.09.25-05.19.38:704][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2021.09.25-05.19.38:704][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2021.09.25-05.19.38:704][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.09.25-05.19.38:704][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.09.25-05.19.38:705][  0]LogTextLocalizationManager: Compacting localization data took   0.01ms
+[2021.09.25-05.19.38:713][  0]LogAssetRegistry: FAssetRegistry took 0.0049 seconds to start up
+[2021.09.25-05.19.38:926][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.000631 seconds
+[2021.09.25-05.19.39:082][  0]LogInit: Selected Device Profile: [Windows]
+[2021.09.25-05.19.39:210][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.09.25-05.19.39:211][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.09.25-05.19.39:211][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.09.25-05.19.39:211][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.09.25-05.19.39:211][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.09.25-05.19.39:225][  0]LogNetVersion: COOPGame 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3513699854)
+[2021.09.25-05.19.39:867][  0]LogMoviePlayer: Initializing movie player
+[2021.09.25-05.19.39:988][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.09.25-05.19.40:001][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.09.25-05.19.40:108][  0]SourceControl: Source control is disabled
+[2021.09.25-05.19.40:108][  0]SourceControl: Source control is disabled
+[2021.09.25-05.19.40:109][  0]SourceControl: Source control is disabled
+[2021.09.25-05.19.40:172][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.09.25-05.19.40:277][  0]LogOcInput: OculusInput pre-init called
+[2021.09.25-05.19.40:290][  0]LogUObjectArray: 46620 objects as part of root set at end of initial load.
+[2021.09.25-05.19.40:290][  0]LogUObjectAllocator: 8219784 out of 0 bytes used by permanent object pool.
+[2021.09.25-05.19.40:290][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.09.25-05.19.40:431][  0]LogEngine: Initializing Engine...
+[2021.09.25-05.19.40:432][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.09.25-05.19.40:445][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.09.25-05.19.40:631][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.09.25-05.19.40:658][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.09.25-05.19.40:684][  0]LogInit: FAudioDevice initialized.
+[2021.09.25-05.19.40:696][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.09.25-05.19.40:702][  0]LogInit: Texture streaming: Enabled
+[2021.09.25-05.19.40:872][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-05.19.40:872][  0]LogInit: Display: Game Engine Initialized.
+[2021.09.25-05.19.40:928][  0]LogInit: Display: Starting Game.
+[2021.09.25-05.19.40:930][  0]LogNet: Browse: /Game/Maps/P_TestMap?Name=Player
+[2021.09.25-05.19.40:930][  0]LogLoad: LoadMap: /Game/Maps/P_TestMap?Name=Player
+[2021.09.25-05.19.40:955][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.09.25-05.19.41:498][  0]LogAIModule: Creating AISystem for world P_TestMap
+[2021.09.25-05.19.41:498][  0]LogLoad: Game class is 'BP_TestGameMode_C'
+[2021.09.25-05.19.41:504][  0]LogWorld: Bringing World /Game/Maps/P_TestMap.P_TestMap up for play (max tick rate 0) at 2021.09.25-10.49.41
+[2021.09.25-05.19.41:505][  0]LogWorld: Bringing up level for play took: 0.005876
+[2021.09.25-05.19.41:519][  0]LogBlueprintUserMessages: [BP_GameState_C_0] Waiting to Start
+[2021.09.25-05.19.41:519][  0]LogLoad: Took 0.589600 seconds to LoadMap(/Game/Maps/P_TestMap)
+[2021.09.25-05.19.41:592][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2021.09.25-05.19.41:592][  0]LogLoad: (Engine Initialization) Total time: 6.85 seconds
+[2021.09.25-05.19.41:592][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.09.25-05.19.41:641][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.09.25-05.19.41:753][  0]LogRenderer: Reallocating scene render targets to support 128x128 Format 10 NumSamples 1 (Frame:1).
+[2021.09.25-05.19.41:801][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:2).
+[2021.09.25-05.19.41:834][  1]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.41:846][  2]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.123456
+[2021.09.25-05.19.41:861][  3]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.143859
+[2021.09.25-05.19.41:877][  4]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.164433
+[2021.09.25-05.19.41:893][  5]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.18495
+[2021.09.25-05.19.41:909][  6]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.20546
+[2021.09.25-05.19.41:925][  7]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.225959
+[2021.09.25-05.19.41:941][  8]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.246384
+[2021.09.25-05.19.41:957][  9]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.266792
+[2021.09.25-05.19.41:974][ 10]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.287181
+[2021.09.25-05.19.41:990][ 11]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.307462
+[2021.09.25-05.19.42:006][ 12]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.327765
+[2021.09.25-05.19.42:022][ 13]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.34791
+[2021.09.25-05.19.42:038][ 14]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.368098
+[2021.09.25-05.19.42:055][ 15]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.388068
+[2021.09.25-05.19.42:071][ 16]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.408111
+[2021.09.25-05.19.42:087][ 17]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.427939
+[2021.09.25-05.19.42:103][ 18]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.447715
+[2021.09.25-05.19.42:119][ 19]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.467331
+[2021.09.25-05.19.42:135][ 20]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.486799
+[2021.09.25-05.19.42:151][ 21]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.506097
+[2021.09.25-05.19.42:168][ 22]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.506036
+[2021.09.25-05.19.42:184][ 23]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.505987
+[2021.09.25-05.19.42:200][ 24]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.505938
+[2021.09.25-05.19.42:216][ 25]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.505889
+[2021.09.25-05.19.42:232][ 26]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.50584
+[2021.09.25-05.19.42:248][ 27]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.505791
+[2021.09.25-05.19.42:264][ 28]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.505742
+[2021.09.25-05.19.42:280][ 29]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.505693
+[2021.09.25-05.19.42:296][ 30]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.505644
+[2021.09.25-05.19.42:312][ 31]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.505595
+[2021.09.25-05.19.42:328][ 32]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.505546
+[2021.09.25-05.19.42:345][ 33]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.505497
+[2021.09.25-05.19.42:361][ 34]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.505448
+[2021.09.25-05.19.42:377][ 35]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.505399
+[2021.09.25-05.19.42:393][ 36]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.50535
+[2021.09.25-05.19.42:410][ 37]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.505301
+[2021.09.25-05.19.42:426][ 38]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.505252
+[2021.09.25-05.19.42:442][ 39]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.505203
+[2021.09.25-05.19.42:458][ 40]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.505155
+[2021.09.25-05.19.42:474][ 41]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.505106
+[2021.09.25-05.19.42:490][ 42]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.505057
+[2021.09.25-05.19.42:507][ 43]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.505008
+[2021.09.25-05.19.42:523][ 44]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.504959
+[2021.09.25-05.19.42:539][ 45]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.50491
+[2021.09.25-05.19.42:555][ 46]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.504861
+[2021.09.25-05.19.42:571][ 47]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.509897
+[2021.09.25-05.19.42:587][ 48]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.515771
+[2021.09.25-05.19.42:603][ 49]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.522452
+[2021.09.25-05.19.42:619][ 50]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.5299
+[2021.09.25-05.19.42:636][ 51]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.538077
+[2021.09.25-05.19.42:652][ 52]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.546941
+[2021.09.25-05.19.42:668][ 53]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.556449
+[2021.09.25-05.19.42:684][ 54]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.566562
+[2021.09.25-05.19.42:700][ 55]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.577239
+[2021.09.25-05.19.42:716][ 56]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.58844
+[2021.09.25-05.19.42:732][ 57]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.600126
+[2021.09.25-05.19.42:748][ 58]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.612262
+[2021.09.25-05.19.42:764][ 59]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.624813
+[2021.09.25-05.19.42:780][ 60]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.637746
+[2021.09.25-05.19.42:796][ 61]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.65103
+[2021.09.25-05.19.42:812][ 62]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.664634
+[2021.09.25-05.19.42:829][ 63]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.678532
+[2021.09.25-05.19.42:845][ 64]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.692697
+[2021.09.25-05.19.42:861][ 65]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.707105
+[2021.09.25-05.19.42:877][ 66]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.721732
+[2021.09.25-05.19.42:893][ 67]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.736556
+[2021.09.25-05.19.42:909][ 68]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.751556
+[2021.09.25-05.19.42:926][ 69]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.766713
+[2021.09.25-05.19.42:942][ 70]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.782008
+[2021.09.25-05.19.42:958][ 71]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.797422
+[2021.09.25-05.19.42:974][ 72]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.812939
+[2021.09.25-05.19.42:990][ 73]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.828541
+[2021.09.25-05.19.43:006][ 74]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.844212
+[2021.09.25-05.19.43:022][ 75]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.859935
+[2021.09.25-05.19.43:039][ 76]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.875696
+[2021.09.25-05.19.43:055][ 77]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.891478
+[2021.09.25-05.19.43:071][ 78]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.907265
+[2021.09.25-05.19.43:087][ 79]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.923041
+[2021.09.25-05.19.43:103][ 80]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.93879
+[2021.09.25-05.19.43:119][ 81]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.954502
+[2021.09.25-05.19.43:135][ 82]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.970146
+[2021.09.25-05.19.43:151][ 83]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.98571
+[2021.09.25-05.19.43:168][ 84]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.001176
+[2021.09.25-05.19.43:184][ 85]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.016522
+[2021.09.25-05.19.43:200][ 86]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.031728
+[2021.09.25-05.19.43:216][ 87]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.04677
+[2021.09.25-05.19.43:232][ 88]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.061623
+[2021.09.25-05.19.43:248][ 89]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.076259
+[2021.09.25-05.19.43:264][ 90]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.09065
+[2021.09.25-05.19.43:280][ 91]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.104762
+[2021.09.25-05.19.43:296][ 92]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.118562
+[2021.09.25-05.19.43:313][ 93]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.13201
+[2021.09.25-05.19.43:329][ 94]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.145064
+[2021.09.25-05.19.43:345][ 95]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.157678
+[2021.09.25-05.19.43:361][ 96]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.169801
+[2021.09.25-05.19.43:377][ 97]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.181379
+[2021.09.25-05.19.43:393][ 98]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.192354
+[2021.09.25-05.19.43:409][ 99]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.202661
+[2021.09.25-05.19.43:426][100]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.212234
+[2021.09.25-05.19.43:442][101]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.221004
+[2021.09.25-05.19.43:458][102]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.2289
+[2021.09.25-05.19.43:474][103]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.23585
+[2021.09.25-05.19.43:490][104]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.241785
+[2021.09.25-05.19.43:506][105]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.246641
+[2021.09.25-05.19.43:522][106]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.250362
+[2021.09.25-05.19.43:538][107]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.2529
+[2021.09.25-05.19.43:554][108]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.254222
+[2021.09.25-05.19.43:571][109]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.25431
+[2021.09.25-05.19.43:586][110]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.253161
+[2021.09.25-05.19.43:602][111]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.250788
+[2021.09.25-05.19.43:618][112]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.247221
+[2021.09.25-05.19.43:635][113]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.242503
+[2021.09.25-05.19.43:651][114]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.236687
+[2021.09.25-05.19.43:667][115]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.229835
+[2021.09.25-05.19.43:684][116]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.222016
+[2021.09.25-05.19.43:699][117]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.213301
+[2021.09.25-05.19.43:716][118]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.203761
+[2021.09.25-05.19.43:732][119]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.192896
+[2021.09.25-05.19.43:748][120]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.181878
+[2021.09.25-05.19.43:765][121]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.170243
+[2021.09.25-05.19.43:781][122]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.15805
+[2021.09.25-05.19.43:797][123]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.145355
+[2021.09.25-05.19.43:813][124]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.13221
+[2021.09.25-05.19.43:829][125]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.118662
+[2021.09.25-05.19.43:845][126]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.104755
+[2021.09.25-05.19.43:862][127]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.090528
+[2021.09.25-05.19.43:878][128]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.076018
+[2021.09.25-05.19.43:894][129]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.061258
+[2021.09.25-05.19.43:910][130]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.046279
+[2021.09.25-05.19.43:926][131]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.031107
+[2021.09.25-05.19.43:942][132]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.01577
+[2021.09.25-05.19.43:958][133]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.000291
+[2021.09.25-05.19.43:958][133]LogBlueprintUserMessages: [BP_TargetDummy_2] 20.0
+[2021.09.25-05.19.43:974][134]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.984692
+[2021.09.25-05.19.43:990][135]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.968994
+[2021.09.25-05.19.44:007][136]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.953217
+[2021.09.25-05.19.44:029][137]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.93738
+[2021.09.25-05.19.44:046][138]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.915093
+[2021.09.25-05.19.44:062][139]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.899188
+[2021.09.25-05.19.44:062][139]LogBlueprintUserMessages: [BP_TargetDummy_2] 20.0
+[2021.09.25-05.19.44:078][140]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.883276
+[2021.09.25-05.19.44:094][141]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.867378
+[2021.09.25-05.19.44:110][142]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.85151
+[2021.09.25-05.19.44:127][143]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.835689
+[2021.09.25-05.19.44:142][144]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.819931
+[2021.09.25-05.19.44:159][145]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.804239
+[2021.09.25-05.19.44:159][145]LogBlueprintUserMessages: [BP_TargetDummy_2] 20.0
+[2021.09.25-05.19.44:175][146]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.788656
+[2021.09.25-05.19.44:191][147]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.773186
+[2021.09.25-05.19.44:207][148]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.757847
+[2021.09.25-05.19.44:223][149]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.742659
+[2021.09.25-05.19.44:240][150]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.72764
+[2021.09.25-05.19.44:255][151]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.712811
+[2021.09.25-05.19.44:271][152]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.698194
+[2021.09.25-05.19.44:288][153]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.683812
+[2021.09.25-05.19.44:304][154]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.669688
+[2021.09.25-05.19.44:320][155]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.655849
+[2021.09.25-05.19.44:336][156]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.642322
+[2021.09.25-05.19.44:352][157]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.629135
+[2021.09.25-05.19.44:368][158]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.61632
+[2021.09.25-05.19.44:384][159]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.603909
+[2021.09.25-05.19.44:400][160]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.591936
+[2021.09.25-05.19.44:417][161]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.580436
+[2021.09.25-05.19.44:433][162]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.569449
+[2021.09.25-05.19.44:449][163]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.559012
+[2021.09.25-05.19.44:465][164]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.549166
+[2021.09.25-05.19.44:481][165]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.539953
+[2021.09.25-05.19.44:497][166]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.531413
+[2021.09.25-05.19.44:513][167]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.52359
+[2021.09.25-05.19.44:529][168]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.516523
+[2021.09.25-05.19.44:546][169]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.510252
+[2021.09.25-05.19.44:562][170]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.504815
+[2021.09.25-05.19.44:578][171]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.500244
+[2021.09.25-05.19.44:594][172]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.49657
+[2021.09.25-05.19.44:610][173]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.493818
+[2021.09.25-05.19.44:626][174]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.492007
+[2021.09.25-05.19.44:642][175]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.491149
+[2021.09.25-05.19.44:658][176]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.49125
+[2021.09.25-05.19.44:675][177]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.492309
+[2021.09.25-05.19.44:691][178]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.494319
+[2021.09.25-05.19.44:708][179]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.497265
+[2021.09.25-05.19.44:724][180]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.501125
+[2021.09.25-05.19.44:740][181]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.505873
+[2021.09.25-05.19.44:756][182]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.511479
+[2021.09.25-05.19.44:771][183]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.517907
+[2021.09.25-05.19.44:788][184]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.52512
+[2021.09.25-05.19.44:804][185]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.533076
+[2021.09.25-05.19.44:820][186]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.541736
+[2021.09.25-05.19.44:836][187]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.551056
+[2021.09.25-05.19.44:852][188]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.560996
+[2021.09.25-05.19.44:868][189]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.571513
+[2021.09.25-05.19.44:884][190]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.582569
+[2021.09.25-05.19.44:900][191]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.594129
+[2021.09.25-05.19.44:917][192]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.606145
+[2021.09.25-05.19.44:934][193]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.618588
+[2021.09.25-05.19.44:949][194]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.631422
+[2021.09.25-05.19.44:965][195]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.644617
+[2021.09.25-05.19.44:981][196]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.658142
+[2021.09.25-05.19.44:997][197]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.671968
+[2021.09.25-05.19.45:013][198]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.686069
+[2021.09.25-05.19.45:029][199]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.70042
+[2021.09.25-05.19.45:046][200]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.714995
+[2021.09.25-05.19.45:062][201]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.729774
+[2021.09.25-05.19.45:078][202]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.744735
+[2021.09.25-05.19.45:094][203]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.759856
+[2021.09.25-05.19.45:110][204]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.77512
+[2021.09.25-05.19.45:127][205]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.790508
+[2021.09.25-05.19.45:143][206]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.806002
+[2021.09.25-05.19.45:159][207]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.821585
+[2021.09.25-05.19.45:175][208]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.83724
+[2021.09.25-05.19.45:191][209]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.85295
+[2021.09.25-05.19.45:207][210]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.868701
+[2021.09.25-05.19.45:224][211]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.884476
+[2021.09.25-05.19.45:240][212]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.900258
+[2021.09.25-05.19.45:256][213]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.916032
+[2021.09.25-05.19.45:272][214]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.931781
+[2021.09.25-05.19.45:288][215]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.947489
+[2021.09.25-05.19.45:305][216]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.963137
+[2021.09.25-05.19.45:320][217]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.978707
+[2021.09.25-05.19.45:337][218]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.994181
+[2021.09.25-05.19.45:353][219]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.009538
+[2021.09.25-05.19.45:369][220]LogBlueprintUserMessages: [BP_TrackerBot_2] 1.024756
+[2021.09.25-05.19.45:385][221]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.568472
+[2021.09.25-05.19.45:401][222]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.534839
+[2021.09.25-05.19.45:418][223]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.503719
+[2021.09.25-05.19.45:434][224]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.47574
+[2021.09.25-05.19.45:450][225]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.451631
+[2021.09.25-05.19.45:467][226]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.4322
+[2021.09.25-05.19.45:482][227]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.418245
+[2021.09.25-05.19.45:498][228]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.410458
+[2021.09.25-05.19.45:514][229]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.40924
+[2021.09.25-05.19.45:530][230]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.414619
+[2021.09.25-05.19.45:546][231]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.426235
+[2021.09.25-05.19.45:562][232]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.453645
+[2021.09.25-05.19.45:578][233]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.447729
+[2021.09.25-05.19.45:594][234]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.448045
+[2021.09.25-05.19.45:610][235]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.449564
+[2021.09.25-05.19.45:626][236]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.452066
+[2021.09.25-05.19.45:642][237]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.455522
+[2021.09.25-05.19.45:659][238]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.459902
+[2021.09.25-05.19.45:675][239]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.406395
+[2021.09.25-05.19.45:691][240]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.383719
+[2021.09.25-05.19.45:707][241]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.373592
+[2021.09.25-05.19.45:723][242]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.369189
+[2021.09.25-05.19.45:739][243]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.360451
+[2021.09.25-05.19.45:755][244]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.352329
+[2021.09.25-05.19.45:771][245]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.344226
+[2021.09.25-05.19.45:787][246]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.336012
+[2021.09.25-05.19.45:804][247]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.327699
+[2021.09.25-05.19.45:820][248]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.319297
+[2021.09.25-05.19.45:836][249]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.310808
+[2021.09.25-05.19.45:852][250]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.302235
+[2021.09.25-05.19.45:868][251]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.293585
+[2021.09.25-05.19.45:884][252]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.284857
+[2021.09.25-05.19.45:900][253]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.27606
+[2021.09.25-05.19.45:916][254]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.267191
+[2021.09.25-05.19.45:932][255]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.258259
+[2021.09.25-05.19.45:949][256]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.249264
+[2021.09.25-05.19.45:965][257]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.240212
+[2021.09.25-05.19.45:981][258]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.230757
+[2021.09.25-05.19.45:997][259]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.221493
+[2021.09.25-05.19.46:013][260]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.212291
+[2021.09.25-05.19.46:029][261]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.202814
+[2021.09.25-05.19.46:046][262]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.193456
+[2021.09.25-05.19.46:063][263]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.184124
+[2021.09.25-05.19.46:079][264]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.174617
+[2021.09.25-05.19.46:095][265]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.164922
+[2021.09.25-05.19.46:111][266]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.155439
+[2021.09.25-05.19.46:127][267]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.145987
+[2021.09.25-05.19.46:143][268]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.136454
+[2021.09.25-05.19.46:159][269]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.126866
+[2021.09.25-05.19.46:175][270]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.117206
+[2021.09.25-05.19.46:192][271]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.107481
+[2021.09.25-05.19.46:208][272]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.46:224][273]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.46:240][274]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.46:256][275]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.46:272][276]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.102884
+[2021.09.25-05.19.46:288][277]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.112537
+[2021.09.25-05.19.46:304][278]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.122135
+[2021.09.25-05.19.46:320][279]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.131677
+[2021.09.25-05.19.46:337][280]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.141164
+[2021.09.25-05.19.46:353][281]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.150584
+[2021.09.25-05.19.46:369][282]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.159901
+[2021.09.25-05.19.46:385][283]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.169034
+[2021.09.25-05.19.46:401][284]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.177834
+[2021.09.25-05.19.46:417][285]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.186106
+[2021.09.25-05.19.46:433][286]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.194399
+[2021.09.25-05.19.46:449][287]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.203638
+[2021.09.25-05.19.46:466][288]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.212522
+[2021.09.25-05.19.46:482][289]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.221453
+[2021.09.25-05.19.46:498][290]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.230487
+[2021.09.25-05.19.46:514][291]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.239124
+[2021.09.25-05.19.46:530][292]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.247866
+[2021.09.25-05.19.46:546][293]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.256638
+[2021.09.25-05.19.46:562][294]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.26537
+[2021.09.25-05.19.46:578][295]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.27399
+[2021.09.25-05.19.46:595][296]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.282516
+[2021.09.25-05.19.46:611][297]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.29094
+[2021.09.25-05.19.46:627][298]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.299254
+[2021.09.25-05.19.46:643][299]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.307456
+[2021.09.25-05.19.46:659][300]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.315537
+[2021.09.25-05.19.46:675][301]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.323494
+[2021.09.25-05.19.46:691][302]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.331317
+[2021.09.25-05.19.46:708][303]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.339006
+[2021.09.25-05.19.46:723][304]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.34655
+[2021.09.25-05.19.46:740][305]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.353946
+[2021.09.25-05.19.46:756][306]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.361186
+[2021.09.25-05.19.46:772][307]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.368267
+[2021.09.25-05.19.46:788][308]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.37518
+[2021.09.25-05.19.46:804][309]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.381922
+[2021.09.25-05.19.46:821][310]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.388574
+[2021.09.25-05.19.46:837][311]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.395009
+[2021.09.25-05.19.46:853][312]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.401251
+[2021.09.25-05.19.46:869][313]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.407309
+[2021.09.25-05.19.46:885][314]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.41316
+[2021.09.25-05.19.46:901][315]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.418818
+[2021.09.25-05.19.46:917][316]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.424256
+[2021.09.25-05.19.46:933][317]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.430028
+[2021.09.25-05.19.46:949][318]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.435575
+[2021.09.25-05.19.46:950][318]LogTemp: Health Changed: 80.0
+[2021.09.25-05.19.46:950][318]LogTemp: Damage Changed: 20.0
+[2021.09.25-05.19.46:950][318]LogTemp: Health 80.0 of BP_TrackerBot_2
+[2021.09.25-05.19.46:966][319]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.440914
+[2021.09.25-05.19.46:982][320]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.45054
+[2021.09.25-05.19.46:998][321]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.455444
+[2021.09.25-05.19.47:014][322]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.460138
+[2021.09.25-05.19.47:030][323]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.464605
+[2021.09.25-05.19.47:046][324]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.46884
+[2021.09.25-05.19.47:062][325]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.472839
+[2021.09.25-05.19.47:078][326]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.476595
+[2021.09.25-05.19.47:094][327]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.480105
+[2021.09.25-05.19.47:110][328]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.483364
+[2021.09.25-05.19.47:126][329]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.486368
+[2021.09.25-05.19.47:143][330]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.489112
+[2021.09.25-05.19.47:159][331]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.491594
+[2021.09.25-05.19.47:159][331]LogTemp: Health Changed: 60.0
+[2021.09.25-05.19.47:159][331]LogTemp: Damage Changed: 20.0
+[2021.09.25-05.19.47:159][331]LogTemp: Health 60.0 of BP_TrackerBot_2
+[2021.09.25-05.19.47:175][332]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.494118
+[2021.09.25-05.19.47:191][333]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.50225
+[2021.09.25-05.19.47:207][334]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.506854
+[2021.09.25-05.19.47:223][335]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.512143
+[2021.09.25-05.19.47:239][336]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.518084
+[2021.09.25-05.19.47:256][337]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.524647
+[2021.09.25-05.19.47:271][338]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.531797
+[2021.09.25-05.19.47:288][339]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.539499
+[2021.09.25-05.19.47:304][340]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.547718
+[2021.09.25-05.19.47:320][341]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.556419
+[2021.09.25-05.19.47:336][342]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.565566
+[2021.09.25-05.19.47:353][343]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.575123
+[2021.09.25-05.19.47:353][343]LogTemp: Health Changed: 40.0
+[2021.09.25-05.19.47:353][343]LogTemp: Damage Changed: 20.0
+[2021.09.25-05.19.47:353][343]LogTemp: Health 40.0 of BP_TrackerBot_2
+[2021.09.25-05.19.47:369][344]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.585057
+[2021.09.25-05.19.47:385][345]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.601886
+[2021.09.25-05.19.47:401][346]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.612573
+[2021.09.25-05.19.47:417][347]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.623525
+[2021.09.25-05.19.47:433][348]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.634708
+[2021.09.25-05.19.47:449][349]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.646094
+[2021.09.25-05.19.47:465][350]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.657652
+[2021.09.25-05.19.47:482][351]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.669355
+[2021.09.25-05.19.47:498][352]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.681173
+[2021.09.25-05.19.47:513][353]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.69308
+[2021.09.25-05.19.47:530][354]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.705048
+[2021.09.25-05.19.47:546][355]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.717048
+[2021.09.25-05.19.47:546][355]LogTemp: Health Changed: 20.0
+[2021.09.25-05.19.47:546][355]LogTemp: Damage Changed: 20.0
+[2021.09.25-05.19.47:546][355]LogTemp: Health 20.0 of BP_TrackerBot_2
+[2021.09.25-05.19.47:562][356]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.729053
+[2021.09.25-05.19.47:578][357]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.747816
+[2021.09.25-05.19.47:594][358]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.759752
+[2021.09.25-05.19.47:610][359]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.7716
+[2021.09.25-05.19.47:626][360]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.783327
+[2021.09.25-05.19.47:642][361]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.794902
+[2021.09.25-05.19.47:659][362]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.806292
+[2021.09.25-05.19.47:675][363]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.817464
+[2021.09.25-05.19.47:691][364]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.828383
+[2021.09.25-05.19.47:707][365]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.839011
+[2021.09.25-05.19.47:724][366]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.849309
+[2021.09.25-05.19.47:740][367]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.859237
+[2021.09.25-05.19.47:740][367]LogTemp: Health Changed: 0.0
+[2021.09.25-05.19.47:740][367]LogTemp: Damage Changed: 20.0
+[2021.09.25-05.19.47:740][367]LogTemp: Health 0.0 of BP_TrackerBot_2
+[2021.09.25-05.19.47:741][367]PIE: Warning: Invalid Simulate Options: Body (BP_TrackerBot_2.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2021.09.25-05.19.47:741][367]PIE: Warning: Invalid Simulate Options: Body (BP_TrackerBot_2.MeshComp SM_TrackerBot) is set to simulate physics but Collision Enabled is incompatible
+[2021.09.25-05.19.47:756][368]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.47:772][369]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.47:788][370]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.47:832][371]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.47:849][372]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.47:865][373]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.47:881][374]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.47:897][375]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.47:913][376]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.47:929][377]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.47:945][378]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.47:961][379]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.47:977][380]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.47:993][381]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:010][382]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:026][383]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:042][384]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:058][385]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:074][386]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:090][387]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:107][388]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:122][389]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:139][390]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:155][391]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:171][392]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:187][393]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:203][394]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:219][395]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:235][396]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:252][397]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:268][398]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:284][399]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:300][400]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:316][401]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:332][402]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:348][403]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:364][404]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:381][405]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:397][406]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:412][407]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:429][408]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:445][409]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:461][410]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:477][411]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:494][412]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:510][413]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:526][414]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:542][415]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:558][416]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:574][417]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:591][418]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:607][419]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:623][420]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:639][421]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:655][422]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:671][423]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:687][424]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:704][425]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:720][426]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:736][427]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:752][428]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:768][429]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:784][430]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:800][431]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:816][432]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:833][433]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:848][434]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:864][435]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:881][436]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:897][437]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:913][438]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:929][439]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:945][440]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:961][441]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:977][442]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.48:993][443]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:009][444]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:026][445]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:042][446]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:059][447]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:075][448]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:091][449]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:107][450]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:123][451]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:139][452]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:155][453]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:171][454]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:187][455]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:203][456]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:220][457]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:236][458]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:251][459]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:268][460]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:284][461]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:300][462]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:316][463]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:333][464]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:349][465]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:365][466]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:381][467]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:397][468]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:413][469]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:429][470]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:446][471]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:461][472]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:477][473]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:493][474]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:509][475]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:526][476]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:542][477]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:558][478]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:575][479]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:591][480]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:607][481]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:623][482]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:639][483]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:655][484]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:671][485]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:687][486]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:703][487]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:720][488]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:736][489]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.49:752][490]LogBlueprintUserMessages: [BP_TrackerBot_2] 0.1
+[2021.09.25-05.19.59:315][ 81]LogSlate: Window 'COOPGame (64-bit Development PCD3D_SM5) ' being destroyed
+[2021.09.25-05.19.59:316][ 81]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.09.25-05.19.59:318][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-05.19.59:318][ 81]LogEngine: All Windows Closed
+[2021.09.25-05.19.59:318][ 81]LogWindows: FPlatformMisc::RequestExit(0)
+[2021.09.25-05.19.59:446][ 82]LogExit: Preparing to exit.
+[2021.09.25-05.19.59:446][ 82]LogMoviePlayer: Shutting down movie player
+[2021.09.25-05.20.00:026][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-05.20.00:039][ 82]LogExit: Game engine shut down
+[2021.09.25-05.20.00:121][ 82]LogExit: Object subsystem successfully closed.
+[2021.09.25-05.20.00:138][ 82]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.09.25-05.20.00:142][ 82]LogD3D11RHI: Shutdown
+[2021.09.25-05.20.00:142][ 82]LogD3D11RHI: CleanupD3DDevice
+[2021.09.25-05.20.00:143][ 82]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2021.09.25-05.20.00:143][ 82]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2021.09.25-05.20.00:143][ 82]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2021.09.25-05.20.00:143][ 82]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2021.09.25-05.20.00:143][ 82]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2021.09.25-05.20.00:143][ 82]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2021.09.25-05.20.00:206][ 82]LogD3D11RHI: ~FD3D11DynamicRHI
+[2021.09.25-05.20.00:224][ 82]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (402)
+[2021.09.25-05.20.00:224][ 82]LogModuleManager: Shutting down and abandoning module SequenceRecorder (400)
+[2021.09.25-05.20.00:224][ 82]LogModuleManager: Shutting down and abandoning module AutomationController (398)
+[2021.09.25-05.20.00:225][ 82]LogModuleManager: Shutting down and abandoning module AutomationWorker (396)
+[2021.09.25-05.20.00:225][ 82]LogModuleManager: Shutting down and abandoning module Voice (394)
+[2021.09.25-05.20.00:225][ 82]LogModuleManager: Shutting down and abandoning module AIModule (392)
+[2021.09.25-05.20.00:225][ 82]LogModuleManager: Shutting down and abandoning module GameplayDebugger (391)
+[2021.09.25-05.20.00:225][ 82]LogModuleManager: Shutting down and abandoning module AITestSuite (389)
+[2021.09.25-05.20.00:225][ 82]LogModuleManager: Shutting down and abandoning module NavigationSystem (387)
+[2021.09.25-05.20.00:225][ 82]LogModuleManager: Shutting down and abandoning module OculusMR (384)
+[2021.09.25-05.20.00:225][ 82]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (382)
+[2021.09.25-05.20.00:225][ 82]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (380)
+[2021.09.25-05.20.00:225][ 82]LogModuleManager: Shutting down and abandoning module WebMMedia (378)
+[2021.09.25-05.20.00:225][ 82]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (376)
+[2021.09.25-05.20.00:225][ 82]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (374)
+[2021.09.25-05.20.00:225][ 82]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (372)
+[2021.09.25-05.20.00:225][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (370)
+[2021.09.25-05.20.00:225][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (368)
+[2021.09.25-05.20.00:225][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (366)
+[2021.09.25-05.20.00:225][ 82]LogModuleManager: Shutting down and abandoning module CharacterAI (364)
+[2021.09.25-05.20.00:225][ 82]LogModuleManager: Shutting down and abandoning module SessionServices (362)
+[2021.09.25-05.20.00:225][ 82]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (360)
+[2021.09.25-05.20.00:225][ 82]LogModuleManager: Shutting down and abandoning module LiveCoding (358)
+[2021.09.25-05.20.00:225][ 82]LogModuleManager: Shutting down and abandoning module LevelSequence (356)
+[2021.09.25-05.20.00:225][ 82]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (354)
+[2021.09.25-05.20.00:225][ 82]LogModuleManager: Shutting down and abandoning module MovieScene (352)
+[2021.09.25-05.20.00:225][ 82]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (350)
+[2021.09.25-05.20.00:225][ 82]LogModuleManager: Shutting down and abandoning module PortalServices (348)
+[2021.09.25-05.20.00:225][ 82]LogModuleManager: Shutting down and abandoning module PortalRpc (346)
+[2021.09.25-05.20.00:225][ 82]LogModuleManager: Shutting down and abandoning module MessagingRpc (344)
+[2021.09.25-05.20.00:225][ 82]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (342)
+[2021.09.25-05.20.00:227][ 82]LogModuleManager: Shutting down and abandoning module ProfilerService (340)
+[2021.09.25-05.20.00:331][ 82]LogModuleManager: Shutting down and abandoning module TaskGraph (338)
+[2021.09.25-05.20.00:331][ 82]LogModuleManager: Shutting down and abandoning module SteamVRController (336)
+[2021.09.25-05.20.00:331][ 82]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (334)
+[2021.09.25-05.20.00:331][ 82]LogModuleManager: Shutting down and abandoning module OculusInput (332)
+[2021.09.25-05.20.00:331][ 82]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (330)
+[2021.09.25-05.20.00:331][ 82]LogModuleManager: Shutting down and abandoning module EditableMesh (328)
+[2021.09.25-05.20.00:331][ 82]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (326)
+[2021.09.25-05.20.00:332][ 82]LogModuleManager: Shutting down and abandoning module CableComponent (324)
+[2021.09.25-05.20.00:332][ 82]LogModuleManager: Shutting down and abandoning module AudioCapture (322)
+[2021.09.25-05.20.00:332][ 82]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (320)
+[2021.09.25-05.20.00:332][ 82]LogModuleManager: Shutting down and abandoning module AndroidPermission (318)
+[2021.09.25-05.20.00:332][ 82]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (316)
+[2021.09.25-05.20.00:332][ 82]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (314)
+[2021.09.25-05.20.00:332][ 82]LogModuleManager: Shutting down and abandoning module MediaCompositing (312)
+[2021.09.25-05.20.00:332][ 82]LogModuleManager: Shutting down and abandoning module LinearTimecode (310)
+[2021.09.25-05.20.00:332][ 82]LogModuleManager: Shutting down and abandoning module ImgMedia (308)
+[2021.09.25-05.20.00:332][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (306)
+[2021.09.25-05.20.00:332][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (304)
+[2021.09.25-05.20.00:332][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (302)
+[2021.09.25-05.20.00:332][ 82]LogModuleManager: Shutting down and abandoning module HTML5Networking (300)
+[2021.09.25-05.20.00:332][ 82]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (298)
+[2021.09.25-05.20.00:332][ 82]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (297)
+[2021.09.25-05.20.00:332][ 82]LogModuleManager: Shutting down and abandoning module GeometryCache (294)
+[2021.09.25-05.20.00:332][ 82]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (293)
+[2021.09.25-05.20.00:332][ 82]LogModuleManager: Shutting down and abandoning module BackChannel (290)
+[2021.09.25-05.20.00:332][ 82]LogModuleManager: Shutting down and abandoning module AppleVision (288)
+[2021.09.25-05.20.00:332][ 82]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (286)
+[2021.09.25-05.20.00:332][ 82]LogModuleManager: Shutting down and abandoning module AppleImageUtils (284)
+[2021.09.25-05.20.00:332][ 82]LogModuleManager: Shutting down and abandoning module VariantManagerContent (282)
+[2021.09.25-05.20.00:332][ 82]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (280)
+[2021.09.25-05.20.00:332][ 82]LogModuleManager: Shutting down and abandoning module CryptoKeys (278)
+[2021.09.25-05.20.00:332][ 82]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (276)
+[2021.09.25-05.20.00:332][ 82]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2021.09.25-05.20.00:332][ 82]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (274)
+[2021.09.25-05.20.00:332][ 82]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (270)
+[2021.09.25-05.20.00:332][ 82]LogModuleManager: Shutting down and abandoning module UObjectPlugin (268)
+[2021.09.25-05.20.00:332][ 82]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (266)
+[2021.09.25-05.20.00:332][ 82]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (264)
+[2021.09.25-05.20.00:333][ 82]LogModuleManager: Shutting down and abandoning module SourceControl (263)
+[2021.09.25-05.20.00:333][ 82]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (260)
+[2021.09.25-05.20.00:333][ 82]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (258)
+[2021.09.25-05.20.00:333][ 82]LogModuleManager: Shutting down and abandoning module COOPGame (256)
+[2021.09.25-05.20.00:333][ 82]LogModuleManager: Shutting down and abandoning module SignificanceManager (254)
+[2021.09.25-05.20.00:333][ 82]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (252)
+[2021.09.25-05.20.00:333][ 82]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (250)
+[2021.09.25-05.20.00:333][ 82]LogModuleManager: Shutting down and abandoning module PhysXVehicles (248)
+[2021.09.25-05.20.00:333][ 82]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (246)
+[2021.09.25-05.20.00:333][ 82]LogModuleManager: Shutting down and abandoning module ActorSequence (244)
+[2021.09.25-05.20.00:333][ 82]LogModuleManager: Shutting down and abandoning module UdpMessaging (242)
+[2021.09.25-05.20.00:434][ 82]LogModuleManager: Shutting down and abandoning module TcpMessaging (240)
+[2021.09.25-05.20.01:000][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (238)
+[2021.09.25-05.20.01:000][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (236)
+[2021.09.25-05.20.01:000][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (234)
+[2021.09.25-05.20.01:000][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (232)
+[2021.09.25-05.20.01:000][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapController (230)
+[2021.09.25-05.20.01:000][ 82]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.09.25-05.20.01:000][ 82]LogModuleManager: Shutting down and abandoning module MagicLeapAR (228)
+[2021.09.25-05.20.01:000][ 82]LogModuleManager: Shutting down and abandoning module AugmentedReality (227)
+[2021.09.25-05.20.01:000][ 82]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (224)
+[2021.09.25-05.20.01:000][ 82]LogModuleManager: Shutting down and abandoning module FacialAnimation (222)
+[2021.09.25-05.20.01:000][ 82]LogModuleManager: Shutting down and abandoning module DataValidation (220)
+[2021.09.25-05.20.01:000][ 82]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (218)
+[2021.09.25-05.20.01:000][ 82]LogModuleManager: Shutting down and abandoning module TreeMap (217)
+[2021.09.25-05.20.01:000][ 82]LogModuleManager: Shutting down and abandoning module AnimationSharing (214)
+[2021.09.25-05.20.01:000][ 82]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (212)
+[2021.09.25-05.20.01:000][ 82]LogModuleManager: Shutting down and abandoning module AISupportModule (210)
+[2021.09.25-05.20.01:000][ 82]LogModuleManager: Shutting down and abandoning module Paper2D (208)
+[2021.09.25-05.20.01:000][ 82]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (206)
+[2021.09.25-05.20.01:000][ 82]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (204)
+[2021.09.25-05.20.01:000][ 82]LogModuleManager: Shutting down and abandoning module PacketHandler (202)
+[2021.09.25-05.20.01:000][ 82]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (200)
+[2021.09.25-05.20.01:000][ 82]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (198)
+[2021.09.25-05.20.01:000][ 82]LogModuleManager: Shutting down and abandoning module MediaAssets (196)
+[2021.09.25-05.20.01:001][ 82]LogModuleManager: Shutting down and abandoning module Overlay (194)
+[2021.09.25-05.20.01:001][ 82]LogModuleManager: Shutting down and abandoning module OverlayEditor (193)
+[2021.09.25-05.20.01:001][ 82]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (190)
+[2021.09.25-05.20.01:001][ 82]LogModuleManager: Shutting down and abandoning module VREditor (188)
+[2021.09.25-05.20.01:001][ 82]LogModuleManager: Shutting down and abandoning module StringTableEditor (186)
+[2021.09.25-05.20.01:001][ 82]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (184)
+[2021.09.25-05.20.01:001][ 82]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (182)
+[2021.09.25-05.20.01:001][ 82]LogModuleManager: Shutting down and abandoning module FunctionalTesting (180)
+[2021.09.25-05.20.01:001][ 82]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (178)
+[2021.09.25-05.20.01:001][ 82]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (177)
+[2021.09.25-05.20.01:001][ 82]LogModuleManager: Shutting down and abandoning module UMG (174)
+[2021.09.25-05.20.01:001][ 82]LogModuleManager: Shutting down and abandoning module UMGEditor (173)
+[2021.09.25-05.20.01:002][ 82]LogModuleManager: Shutting down and abandoning module Sequencer (172)
+[2021.09.25-05.20.01:004][ 82]LogModuleManager: Shutting down and abandoning module MessageLog (169)
+[2021.09.25-05.20.01:004][ 82]LogModuleManager: Shutting down and abandoning module SlateReflector (164)
+[2021.09.25-05.20.01:004][ 82]LogModuleManager: Shutting down and abandoning module Slate (162)
+[2021.09.25-05.20.01:005][ 82]LogModuleManager: Shutting down and abandoning module EditorStyle (160)
+[2021.09.25-05.20.01:007][ 82]LogModuleManager: Shutting down and abandoning module UnrealEd (158)
+[2021.09.25-05.20.01:007][ 82]LogModuleManager: Shutting down and abandoning module MRMesh (156)
+[2021.09.25-05.20.01:007][ 82]LogModuleManager: Shutting down and abandoning module Messaging (154)
+[2021.09.25-05.20.01:007][ 82]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (152)
+[2021.09.25-05.20.01:007][ 82]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (150)
+[2021.09.25-05.20.01:007][ 82]LogModuleManager: Shutting down and abandoning module XAudio2 (148)
+[2021.09.25-05.20.01:007][ 82]LogModuleManager: Shutting down and abandoning module Networking (146)
+[2021.09.25-05.20.01:007][ 82]LogModuleManager: Shutting down and abandoning module Core (144)
+[2021.09.25-05.20.01:007][ 82]LogModuleManager: Shutting down and abandoning module KismetCompiler (142)
+[2021.09.25-05.20.01:007][ 82]LogModuleManager: Shutting down and abandoning module MeshUtilities (140)
+[2021.09.25-05.20.01:007][ 82]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (139)
+[2021.09.25-05.20.01:007][ 82]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (138)
+[2021.09.25-05.20.01:007][ 82]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (137)
+[2021.09.25-05.20.01:007][ 82]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (135)
+[2021.09.25-05.20.01:009][ 82]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (133)
+[2021.09.25-05.20.01:009][ 82]LogModuleManager: Shutting down and abandoning module MaterialBaking (129)
+[2021.09.25-05.20.01:009][ 82]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (124)
+[2021.09.25-05.20.01:009][ 82]LogModuleManager: Shutting down and abandoning module DerivedDataCache (122)
+[2021.09.25-05.20.01:065][ 82]LogDerivedDataCache: Shutdown
+[2021.09.25-05.20.01:065][ 82]LogModuleManager: Shutting down and abandoning module XGEController (120)
+[2021.09.25-05.20.01:065][ 82]LogModuleManager: Shutting down and abandoning module TargetPlatform (118)
+[2021.09.25-05.20.01:065][ 82]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (117)
+[2021.09.25-05.20.01:065][ 82]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (115)
+[2021.09.25-05.20.01:065][ 82]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (113)
+[2021.09.25-05.20.01:065][ 82]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (111)
+[2021.09.25-05.20.01:065][ 82]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (109)
+[2021.09.25-05.20.01:065][ 82]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (107)
+[2021.09.25-05.20.01:065][ 82]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (105)
+[2021.09.25-05.20.01:065][ 82]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (103)
+[2021.09.25-05.20.01:065][ 82]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (101)
+[2021.09.25-05.20.01:065][ 82]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (99)
+[2021.09.25-05.20.01:065][ 82]LogModuleManager: Shutting down and abandoning module ImageWrapper (98)
+[2021.09.25-05.20.01:065][ 82]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (95)
+[2021.09.25-05.20.01:065][ 82]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (93)
+[2021.09.25-05.20.01:065][ 82]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (91)
+[2021.09.25-05.20.01:065][ 82]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (89)
+[2021.09.25-05.20.01:065][ 82]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (87)
+[2021.09.25-05.20.01:065][ 82]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (85)
+[2021.09.25-05.20.01:065][ 82]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (83)
+[2021.09.25-05.20.01:065][ 82]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (81)
+[2021.09.25-05.20.01:065][ 82]LogModuleManager: Shutting down and abandoning module InputCore (78)
+[2021.09.25-05.20.01:065][ 82]LogModuleManager: Shutting down and abandoning module Settings (76)
+[2021.09.25-05.20.01:065][ 82]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2021.09.25-05.20.01:065][ 82]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2021.09.25-05.20.01:065][ 82]LogHMD: Freeing OpenVRDLLHandle.
+[2021.09.25-05.20.01:065][ 82]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2021.09.25-05.20.01:065][ 82]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2021.09.25-05.20.01:065][ 82]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2021.09.25-05.20.01:065][ 82]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2021.09.25-05.20.01:065][ 82]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2021.09.25-05.20.01:066][ 82]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2021.09.25-05.20.01:066][ 82]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2021.09.25-05.20.01:099][ 82]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2021.09.25-05.20.01:118][ 82]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2021.09.25-05.20.01:120][ 82]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2021.09.25-05.20.01:121][ 82]LogModuleManager: Shutting down and abandoning module Media (45)
+[2021.09.25-05.20.01:127][ 82]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2021.09.25-05.20.01:127][ 82]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2021.09.25-05.20.01:128][ 82]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.09.25-05.20.01:128][ 82]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2021.09.25-05.20.01:129][ 82]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2021.09.25-05.20.01:129][ 82]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.09.25-05.20.01:130][ 82]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.09.25-05.20.01:130][ 82]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.09.25-05.20.01:130][ 82]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.09.25-05.20.01:130][ 82]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.09.25-05.20.01:130][ 82]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.09.25-05.20.01:130][ 82]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.09.25-05.20.01:130][ 82]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.09.25-05.20.01:130][ 82]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.09.25-05.20.01:130][ 82]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.09.25-05.20.01:130][ 82]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.09.25-05.20.01:130][ 82]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.09.25-05.20.01:130][ 82]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.09.25-05.20.01:130][ 82]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.09.25-05.20.01:130][ 82]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.09.25-05.20.01:130][ 82]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.09.25-05.20.01:138][ 82]LogExit: Exiting.
+[2021.09.25-05.20.01:150][ 82]Log file closed, 09/25/21 10:50:01

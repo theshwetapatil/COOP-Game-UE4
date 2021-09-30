@@ -33,9 +33,6 @@ protected:
 	void BeginZoom();
 	void EndZoom();
 
-	void BeginFire();
-	void EndFire();
-
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category= "Components")
 	UCameraComponent* CameraComp;
 
@@ -85,4 +82,10 @@ public:
 	bool GetPlayerDeathState();
 
 	void GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const override;
+
+	UFUNCTION(BlueprintCallable, Category = "Player")
+	void StartFire();
+
+	UFUNCTION(BlueprintCallable, Category = "Player")
+	void StopFire();
 };

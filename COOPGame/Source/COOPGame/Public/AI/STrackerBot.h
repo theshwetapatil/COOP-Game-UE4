@@ -34,8 +34,8 @@ protected:
 
 	UFUNCTION()
 	void HandleTakeDamage(USHealthComponent* OwningHealthComp, float Health, 
-		float HealthDelta, const class UDamageType* DamageType, 
-		class AController* InstigatedBy, AActor* DamageCauser);
+	float HealthDelta, const class UDamageType* DamageType, 
+	class AController* InstigatedBy, AActor* DamageCauser);
 
 	FVector GetNextPathPoint();
 
@@ -81,6 +81,10 @@ protected:
 
 	UPROPERTY(EditDefaultsOnly, Category = "TrackerBot")
 	USoundCue* ExplodeSound;
+
+	FTimerHandle TimerHandle_RefreshPath;
+
+	void RefreshPath();
 
 public:	
 	// Called every frame

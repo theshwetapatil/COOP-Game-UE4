@@ -19,6 +19,22 @@ class AActor;
 
 #define COOPGame_Source_COOPGame_Public_SCharacter_h_17_RPC_WRAPPERS \
  \
+	DECLARE_FUNCTION(execStopFire) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->StopFire(); \
+		P_NATIVE_END; \
+	} \
+ \
+	DECLARE_FUNCTION(execStartFire) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->StartFire(); \
+		P_NATIVE_END; \
+	} \
+ \
 	DECLARE_FUNCTION(execGetPlayerDeathState) \
 	{ \
 		P_FINISH; \
@@ -43,6 +59,22 @@ class AActor;
 
 
 #define COOPGame_Source_COOPGame_Public_SCharacter_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execStopFire) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->StopFire(); \
+		P_NATIVE_END; \
+	} \
+ \
+	DECLARE_FUNCTION(execStartFire) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->StartFire(); \
+		P_NATIVE_END; \
+	} \
  \
 	DECLARE_FUNCTION(execGetPlayerDeathState) \
 	{ \
