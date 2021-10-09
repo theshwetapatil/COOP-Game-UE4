@@ -75,7 +75,8 @@ protected:
 	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = "Weapon")
 	float BaseDamage;
 
-	void Fire();
+	//Challenge Code- Grenade Launcher
+	virtual void Fire();
 
 	UFUNCTION(Server, Reliable, WithValidation)
 	void ServerFire();
