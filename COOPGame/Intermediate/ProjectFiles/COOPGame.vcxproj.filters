@@ -82,6 +82,12 @@
     <Filter Include="Source\COOPGame\Private\AI">
       <UniqueIdentifier>{cbe189a3-fb61-4453-a395-e04794596eb9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source\COOPGame\Private\Challenges">
+      <UniqueIdentifier>{4547acf7-29e0-49e8-8756-e5fc352e5178}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\COOPGame\Public\Challenges">
+      <UniqueIdentifier>{319dec9c-84bf-4269-b45c-9bf8c7eb4e77}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\Source\COOPGame\Public\AI\STrackerBot.h">
@@ -102,8 +108,11 @@
     <ClInclude Include="..\..\Source\COOPGame\Public\SPlayerState.h">
       <Filter>Source\COOPGame\Public</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Source\COOPGame\Public\SExplosiveBarrel.h">
+      <Filter>Source\COOPGame\Public\Challenges</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\COOPGame\Public\SProjectileWeapon.h">
-      <Filter>Source\COOPGame\Public</Filter>
+      <Filter>Source\COOPGame\Public\Challenges</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -125,8 +134,11 @@
     <ClCompile Include="..\..\Source\COOPGame\Private\SPlayerState.cpp">
       <Filter>Source\COOPGame\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\COOPGame\Private\SExplosiveBarrel.cpp">
+      <Filter>Source\COOPGame\Private\Challenges</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\COOPGame\Private\SProjectileWeapon.cpp">
-      <Filter>Source\COOPGame\Private</Filter>
+      <Filter>Source\COOPGame\Private\Challenges</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

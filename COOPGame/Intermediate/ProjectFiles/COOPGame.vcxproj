@@ -378,6 +378,7 @@
     <ClInclude Include="..\..\Source\COOPGame\COOPGameGameModeBase.h" />
     <ClCompile Include="..\..\Source\COOPGame\Private\AI\STrackerBot.cpp" />
     <ClCompile Include="..\..\Source\COOPGame\Private\SCharacter.cpp" />
+    <ClCompile Include="..\..\Source\COOPGame\Private\SExplosiveBarrel.cpp" />
     <ClCompile Include="..\..\Source\COOPGame\Private\SGameMode.cpp" />
     <ClCompile Include="..\..\Source\COOPGame\Private\SGameState.cpp" />
     <ClCompile Include="..\..\Source\COOPGame\Private\SPickupActor.cpp" />
@@ -388,6 +389,7 @@
     <ClCompile Include="..\..\Source\COOPGame\Private\Components\SHealthComponent.cpp" />
     <ClInclude Include="..\..\Source\COOPGame\Public\AI\STrackerBot.h" />
     <ClInclude Include="..\..\Source\COOPGame\Public\SCharacter.h" />
+    <ClInclude Include="..\..\Source\COOPGame\Public\SExplosiveBarrel.h" />
     <ClInclude Include="..\..\Source\COOPGame\Public\SGameMode.h" />
     <ClInclude Include="..\..\Source\COOPGame\Public\SGameState.h" />
     <ClInclude Include="..\..\Source\COOPGame\Public\SPickupActor.h" />
