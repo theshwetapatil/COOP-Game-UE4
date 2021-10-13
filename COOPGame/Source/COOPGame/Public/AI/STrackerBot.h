@@ -91,4 +91,20 @@ public:
 	virtual void Tick(float DeltaTime) override;
 
 	virtual void NotifyActorBeginOverlap(AActor* OtherActor) override;
+
+protected:
+	// Challenge Code- BasicAI
+
+	// Find nearby enemies and grow in 'power level' based on the amount
+	void OnCheckNearbyBots();
+
+	// The power boost of the bot, affects damage caused to enemies and color of the bot (range: 1 to 4)
+	UPROPERTY(ReplicatedUsing = OnRep_PowerLevel, EditDefaultsOnly, Category = "TrackerBot")
+	int32 PowerLevel;
+
+	UFUNCTION()
+	void OnRep_PowerLevel();
+
+	UPROPERTY(Replicated)
+	float AlphaClients;
 };

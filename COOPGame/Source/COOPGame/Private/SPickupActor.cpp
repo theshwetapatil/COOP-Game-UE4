@@ -6,6 +6,8 @@
 #include "Components/DecalComponent.h"
 #include "SPowerupActor.h"
 #include "TimerManager.h"
+#include "SCharacter.h"
+#include "SHealthComponent.h"
 
 // Sets default values
 ASPickupActor::ASPickupActor()
@@ -52,7 +54,23 @@ void ASPickupActor::NotifyActorBeginOverlap(AActor* OtherActor)
 {
 	Super::NotifyActorBeginOverlap(OtherActor);
 
-	if (Role == ROLE_Authority && PowerUpInstance)
+	ASCharacter* PlayerPawn = Cast<ASCharacter>(OtherActor);
+	bool isPlayer = false;
+
+	if (PlayerPawn)
+	{
+		uint8 PlayerTeam = 0;
+		USHealthComponent* HealthComp = Cast<USHealthComponent>(PlayerPawn->GetComponentByClass(USHealthComponent::StaticClass()));
+
+		if (HealthComp)
+		{
+			isPlayer = HealthComp->TeamNum == PlayerTeam;
+		}
+
+	}
+	
+
+	if (Role == ROLE_Authority && isPlayer && PowerUpInstance)
 	{
 		PowerUpInstance->ActivatePowerup(OtherActor);
 		PowerUpInstance = nullptr;

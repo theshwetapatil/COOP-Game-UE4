@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "COOPGame/Public/SProjectileWeapon.h"
+#include "COOPGame/Public/Challenges/SProjectileWeapon.h"
 #ifdef _MSC_VER
 #pragma warning (push)
 #pragma warning (disable : 4883)
@@ -47,14 +47,14 @@ void EmptyLinkFunctionForGeneratedCodeSProjectileWeapon() {}
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ASProjectileWeapon_Statics::Class_MetaDataParams[] = {
-		{ "IncludePath", "SProjectileWeapon.h" },
-		{ "ModuleRelativePath", "Public/SProjectileWeapon.h" },
+		{ "IncludePath", "Challenges/SProjectileWeapon.h" },
+		{ "ModuleRelativePath", "Public/Challenges/SProjectileWeapon.h" },
 	};
 #endif
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ASProjectileWeapon_Statics::NewProp_ProjectileClass_MetaData[] = {
 		{ "Category", "ProjectileWeapon" },
-		{ "ModuleRelativePath", "Public/SProjectileWeapon.h" },
+		{ "ModuleRelativePath", "Public/Challenges/SProjectileWeapon.h" },
 	};
 #endif
 	const UE4CodeGen_Private::FClassPropertyParams Z_Construct_UClass_ASProjectileWeapon_Statics::NewProp_ProjectileClass = { "ProjectileClass", nullptr, (EPropertyFlags)0x0024080000010015, UE4CodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ASProjectileWeapon, ProjectileClass), Z_Construct_UClass_AActor_NoRegister, Z_Construct_UClass_UClass, METADATA_PARAMS(Z_Construct_UClass_ASProjectileWeapon_Statics::NewProp_ProjectileClass_MetaData, ARRAY_COUNT(Z_Construct_UClass_ASProjectileWeapon_Statics::NewProp_ProjectileClass_MetaData)) };
@@ -88,7 +88,7 @@ void EmptyLinkFunctionForGeneratedCodeSProjectileWeapon() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ASProjectileWeapon, 3464100845);
+	IMPLEMENT_CLASS(ASProjectileWeapon, 3147871000);
 	template<> COOPGAME_API UClass* StaticClass<ASProjectileWeapon>()
 	{
 		return ASProjectileWeapon::StaticClass();

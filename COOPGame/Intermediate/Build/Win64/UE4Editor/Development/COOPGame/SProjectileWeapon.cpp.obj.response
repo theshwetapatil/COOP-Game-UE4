@@ -432,6 +432,7 @@
 /I C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Source\COOPGame\Public
 /I C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Source\COOPGame
 /I C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Source\COOPGame\Public\AI
+/I C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Source\COOPGame\Public\Challenges
 /I C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Source\COOPGame\Public\Components
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
@@ -442,7 +443,7 @@
 /FI"C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\COOPGameEditor\Development\Engine\SharedPCH.Engine.h"
 /Yu"C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\COOPGameEditor\Development\Engine\SharedPCH.Engine.h"
 /Fp"C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\COOPGameEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Source\COOPGame\Private\SProjectileWeapon.cpp"
+"C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Source\COOPGame\Private\Challenges\SProjectileWeapon.cpp"
 /FI"C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\UE4Editor\Development\COOPGame\Definitions.COOPGame.h"
 /Fo"C:\Users\ADMIN\Documents\GitHub\theshwetapatil\COOP-Game-UE4\COOPGame\Intermediate\Build\Win64\UE4Editor\Development\COOPGame\SProjectileWeapon.cpp.obj"
 /TP

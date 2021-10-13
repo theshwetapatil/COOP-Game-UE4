@@ -17,7 +17,7 @@ class AActor;
 #endif
 #define COOPGAME_SExplosiveBarrel_generated_h
 
-#define COOPGame_Source_COOPGame_Public_SExplosiveBarrel_h_17_RPC_WRAPPERS \
+#define COOPGame_Source_COOPGame_Public_Challenges_SExplosiveBarrel_h_17_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execOnRep_Exploded) \
 	{ \
@@ -42,7 +42,7 @@ class AActor;
 	}
 
 
-#define COOPGame_Source_COOPGame_Public_SExplosiveBarrel_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+#define COOPGame_Source_COOPGame_Public_Challenges_SExplosiveBarrel_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execOnRep_Exploded) \
 	{ \
@@ -67,7 +67,7 @@ class AActor;
 	}
 
 
-#define COOPGame_Source_COOPGame_Public_SExplosiveBarrel_h_17_INCLASS_NO_PURE_DECLS \
+#define COOPGame_Source_COOPGame_Public_Challenges_SExplosiveBarrel_h_17_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesASExplosiveBarrel(); \
 	friend struct Z_Construct_UClass_ASExplosiveBarrel_Statics; \
@@ -76,7 +76,7 @@ public: \
 	DECLARE_SERIALIZER(ASExplosiveBarrel)
 
 
-#define COOPGame_Source_COOPGame_Public_SExplosiveBarrel_h_17_INCLASS \
+#define COOPGame_Source_COOPGame_Public_Challenges_SExplosiveBarrel_h_17_INCLASS \
 private: \
 	static void StaticRegisterNativesASExplosiveBarrel(); \
 	friend struct Z_Construct_UClass_ASExplosiveBarrel_Statics; \
@@ -85,7 +85,7 @@ public: \
 	DECLARE_SERIALIZER(ASExplosiveBarrel)
 
 
-#define COOPGame_Source_COOPGame_Public_SExplosiveBarrel_h_17_STANDARD_CONSTRUCTORS \
+#define COOPGame_Source_COOPGame_Public_Challenges_SExplosiveBarrel_h_17_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ASExplosiveBarrel(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ASExplosiveBarrel) \
@@ -98,7 +98,7 @@ private: \
 public:
 
 
-#define COOPGame_Source_COOPGame_Public_SExplosiveBarrel_h_17_ENHANCED_CONSTRUCTORS \
+#define COOPGame_Source_COOPGame_Public_Challenges_SExplosiveBarrel_h_17_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API ASExplosiveBarrel(ASExplosiveBarrel&&); \
@@ -109,7 +109,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ASExplosiveBarrel); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(ASExplosiveBarrel)
 
 
-#define COOPGame_Source_COOPGame_Public_SExplosiveBarrel_h_17_PRIVATE_PROPERTY_OFFSET \
+#define COOPGame_Source_COOPGame_Public_Challenges_SExplosiveBarrel_h_17_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__HealthComp() { return STRUCT_OFFSET(ASExplosiveBarrel, HealthComp); } \
 	FORCEINLINE static uint32 __PPO__MeshComp() { return STRUCT_OFFSET(ASExplosiveBarrel, MeshComp); } \
 	FORCEINLINE static uint32 __PPO__RadialForceComp() { return STRUCT_OFFSET(ASExplosiveBarrel, RadialForceComp); } \
@@ -119,25 +119,25 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ASExplosiveBarrel); \
 	FORCEINLINE static uint32 __PPO__ExplodedMaterial() { return STRUCT_OFFSET(ASExplosiveBarrel, ExplodedMaterial); }
 
 
-#define COOPGame_Source_COOPGame_Public_SExplosiveBarrel_h_14_PROLOG
-#define COOPGame_Source_COOPGame_Public_SExplosiveBarrel_h_17_GENERATED_BODY_LEGACY \
+#define COOPGame_Source_COOPGame_Public_Challenges_SExplosiveBarrel_h_14_PROLOG
+#define COOPGame_Source_COOPGame_Public_Challenges_SExplosiveBarrel_h_17_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	COOPGame_Source_COOPGame_Public_SExplosiveBarrel_h_17_PRIVATE_PROPERTY_OFFSET \
-	COOPGame_Source_COOPGame_Public_SExplosiveBarrel_h_17_RPC_WRAPPERS \
-	COOPGame_Source_COOPGame_Public_SExplosiveBarrel_h_17_INCLASS \
-	COOPGame_Source_COOPGame_Public_SExplosiveBarrel_h_17_STANDARD_CONSTRUCTORS \
+	COOPGame_Source_COOPGame_Public_Challenges_SExplosiveBarrel_h_17_PRIVATE_PROPERTY_OFFSET \
+	COOPGame_Source_COOPGame_Public_Challenges_SExplosiveBarrel_h_17_RPC_WRAPPERS \
+	COOPGame_Source_COOPGame_Public_Challenges_SExplosiveBarrel_h_17_INCLASS \
+	COOPGame_Source_COOPGame_Public_Challenges_SExplosiveBarrel_h_17_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define COOPGame_Source_COOPGame_Public_SExplosiveBarrel_h_17_GENERATED_BODY \
+#define COOPGame_Source_COOPGame_Public_Challenges_SExplosiveBarrel_h_17_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	COOPGame_Source_COOPGame_Public_SExplosiveBarrel_h_17_PRIVATE_PROPERTY_OFFSET \
-	COOPGame_Source_COOPGame_Public_SExplosiveBarrel_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
-	COOPGame_Source_COOPGame_Public_SExplosiveBarrel_h_17_INCLASS_NO_PURE_DECLS \
-	COOPGame_Source_COOPGame_Public_SExplosiveBarrel_h_17_ENHANCED_CONSTRUCTORS \
+	COOPGame_Source_COOPGame_Public_Challenges_SExplosiveBarrel_h_17_PRIVATE_PROPERTY_OFFSET \
+	COOPGame_Source_COOPGame_Public_Challenges_SExplosiveBarrel_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+	COOPGame_Source_COOPGame_Public_Challenges_SExplosiveBarrel_h_17_INCLASS_NO_PURE_DECLS \
+	COOPGame_Source_COOPGame_Public_Challenges_SExplosiveBarrel_h_17_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -145,7 +145,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> COOPGAME_API UClass* StaticClass<class ASExplosiveBarrel>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID COOPGame_Source_COOPGame_Public_SExplosiveBarrel_h
+#define CURRENT_FILE_ID COOPGame_Source_COOPGame_Public_Challenges_SExplosiveBarrel_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -19,6 +19,14 @@ class AActor;
 
 #define COOPGame_Source_COOPGame_Public_AI_STrackerBot_h_16_RPC_WRAPPERS \
  \
+	DECLARE_FUNCTION(execOnRep_PowerLevel) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->OnRep_PowerLevel(); \
+		P_NATIVE_END; \
+	} \
+ \
 	DECLARE_FUNCTION(execHandleTakeDamage) \
 	{ \
 		P_GET_OBJECT(USHealthComponent,Z_Param_OwningHealthComp); \
@@ -35,6 +43,14 @@ class AActor;
 
 
 #define COOPGame_Source_COOPGame_Public_AI_STrackerBot_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execOnRep_PowerLevel) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->OnRep_PowerLevel(); \
+		P_NATIVE_END; \
+	} \
  \
 	DECLARE_FUNCTION(execHandleTakeDamage) \
 	{ \
@@ -57,7 +73,8 @@ private: \
 	friend struct Z_Construct_UClass_ASTrackerBot_Statics; \
 public: \
 	DECLARE_CLASS(ASTrackerBot, APawn, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/COOPGame"), NO_API) \
-	DECLARE_SERIALIZER(ASTrackerBot)
+	DECLARE_SERIALIZER(ASTrackerBot) \
+	void GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const override;
 
 
 #define COOPGame_Source_COOPGame_Public_AI_STrackerBot_h_16_INCLASS \
@@ -66,7 +83,8 @@ private: \
 	friend struct Z_Construct_UClass_ASTrackerBot_Statics; \
 public: \
 	DECLARE_CLASS(ASTrackerBot, APawn, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/COOPGame"), NO_API) \
-	DECLARE_SERIALIZER(ASTrackerBot)
+	DECLARE_SERIALIZER(ASTrackerBot) \
+	void GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const override;
 
 
 #define COOPGame_Source_COOPGame_Public_AI_STrackerBot_h_16_STANDARD_CONSTRUCTORS \
@@ -105,7 +123,9 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ASTrackerBot); \
 	FORCEINLINE static uint32 __PPO__ExplosionDamage() { return STRUCT_OFFSET(ASTrackerBot, ExplosionDamage); } \
 	FORCEINLINE static uint32 __PPO__SelfDamageInterval() { return STRUCT_OFFSET(ASTrackerBot, SelfDamageInterval); } \
 	FORCEINLINE static uint32 __PPO__SelfDestructSound() { return STRUCT_OFFSET(ASTrackerBot, SelfDestructSound); } \
-	FORCEINLINE static uint32 __PPO__ExplodeSound() { return STRUCT_OFFSET(ASTrackerBot, ExplodeSound); }
+	FORCEINLINE static uint32 __PPO__ExplodeSound() { return STRUCT_OFFSET(ASTrackerBot, ExplodeSound); } \
+	FORCEINLINE static uint32 __PPO__PowerLevel() { return STRUCT_OFFSET(ASTrackerBot, PowerLevel); } \
+	FORCEINLINE static uint32 __PPO__AlphaClients() { return STRUCT_OFFSET(ASTrackerBot, AlphaClients); }
 
 
 #define COOPGame_Source_COOPGame_Public_AI_STrackerBot_h_13_PROLOG
